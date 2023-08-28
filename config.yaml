@@ -69,7 +69,7 @@ languages:
   en:
     title: HypSen
     subtitle: Welcome
-    homeSubtitle: This site is dedicated to people with hypersensitivity to light.
+    homeSubtitle: This site is for people with hypersensitivity to light.
     keywords: ''
     copyright: >-
       <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
