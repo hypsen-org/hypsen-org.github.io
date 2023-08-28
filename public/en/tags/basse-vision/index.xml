@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>basse vision on HypSen</title>
+    <link>http://hypsen.org/en/tags/basse-vision/</link>
+    <description>Recent content in basse vision on HypSen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 06 Aug 2023 21:59:54 +0200</lastBuildDate><atom:link href="http://hypsen.org/en/tags/basse-vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux in dark mode</title>
+      <link>http://hypsen.org/en/vision/linux/</link>
+      <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
+      
+      <guid>http://hypsen.org/en/vision/linux/</guid>
+      <description>I moved from Windows to Linux more than ten years ago. I am now using Xubuntu, which I am extremely satisfied with. With some computer knowledge, Linux makes it possible to customize just about any detail of the user experience, especially the look and feel. This is particularly useful when living with a visual impairment, since it is easy to go from this&amp;hellip;
+&amp;hellip; to this &amp;hellip;
+This page outlines the customizations I have made to my desktop environment to help me better withstand exposure to computer screens despite my hypersensitivity to light.</description>
+    </item>
+    
+  </channel>
+</rss>

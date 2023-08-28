@@ -1,0 +1,95 @@
+baseURL: 'http://hypsen.org/'
+defaultContentLanguage: fr
+defaultContentLanguageInSubdir: true
+title: HypSen
+theme: hello-friend-ng
+paginate: 100
+
+enableRobotsTXT: true
+
+author:
+  name: Mathieu Lindemann
+
+params:
+  dateform: 'Jan 2, 2006'
+  dateformShort: Jan 2
+  dateformNum: '2006-01-02'
+  dateformNumTime: '2006-01-02 15:04'
+  enableThemeToggle: true
+  enableSharingButtons: true
+  footer:
+    trademark: true
+    rss: true
+    copyright: false
+    author: true
+    bottomText:
+      - 'Theme by <a href="https://github.com/rhazdon">D. Atlialp</a>'
+  logo:
+    logoMark: $
+    logoText: '~'
+    logoHomeLink: /
+    logoCursorDisabled: false
+    logoCursorColor: '#555'
+    logoCursorAnimate: 3s
+    logoCursorPathname: false
+
+taxonomies:
+  category: blog
+  tag: tags
+  series: series
+
+languages:
+  fr:
+    title: HypSen
+    subtitle: Bienvenue
+    homeSubtitle: Ce site est consacré aux personnes hypersensibles à la lumière.
+    keywords: ''
+    copyright: >-
+      <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
+      rel="noopener">CC BY-NC 4.0</a>
+    readOtherPosts: Voir les autres pages.
+    footer:
+      trademark: true
+      rss: true
+      copyright: false
+      author: true
+      bottomText:
+        - 'Thème réalisé par <a href="https://github.com/rhazdon">DA</a>'
+    menu:
+      main:
+        - url: /menu
+          name: Menu
+          weight: 10
+        - url: /a-propos/
+          name: À propos
+          weight: 20
+        - url: ../en
+          name: EN
+          weight: 1000
+  en:
+    title: HypSen
+    subtitle: Welcome
+    homeSubtitle: This site is dedicated to people with hypersensitivity to light.
+    keywords: ''
+    copyright: >-
+      <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
+      rel="noopener">CC BY-NC 4.0</a>
+    readOtherPosts: Read other posts
+    footer:
+      trademark: true
+      rss: true
+      copyright: false
+      author: true
+      bottomText:
+        - 'Theme by <a href="https://github.com/rhazdon">DA</a>'
+    menu:
+      main:
+        - url: /menu
+          name: Menu
+          weight: 10
+        - url: /about/
+          name: About
+          weight: 20
+        - url: ../fr
+          name: FR
+          weight: 1000
