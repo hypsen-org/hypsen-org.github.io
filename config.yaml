@@ -57,13 +57,13 @@ languages:
         - 'Thème réalisé par <a href="https://github.com/rhazdon">DA</a>'
     menu:
       main:
-        - url: /menu
+        - url: /menu/
           name: Menu
           weight: 10
         - url: /a-propos/
           name: À propos
           weight: 20
-        - url: ../en
+        - url: ../en/
           name: EN
           weight: 1000
   en:
@@ -84,12 +84,12 @@ languages:
         - 'Theme by <a href="https://github.com/rhazdon">DA</a>'
     menu:
       main:
-        - url: /menu
+        - url: /menu/
           name: Menu
           weight: 10
         - url: /about/
           name: About
           weight: 20
-        - url: ../fr
+        - url: ../fr/
           name: FR
           weight: 1000
