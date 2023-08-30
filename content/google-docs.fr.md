@@ -1,6 +1,6 @@
 ---
 title: "Google Docs"
-slug: "../vision/google-docs"
+slug: "../adaptation/google-docs"
 date: 2023-08-06T21:59:54+02:00
 draft: false
 toc: true

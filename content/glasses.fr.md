@@ -1,6 +1,6 @@
 ---
 title: "Lunettes de vue"
-slug: "../vision/lunettes-de-vue"
+slug: "../adaptation/lunettes-de-vue"
 date: 2023-08-06T21:59:54+02:00
 draft: false
 toc: false

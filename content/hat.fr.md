@@ -1,6 +1,6 @@
 ---
 title: "Couvre-chef"
-slug: "../vision/couvre-chef"
+slug: "../adaptation/couvre-chef"
 date: 2023-08-06T21:59:54+02:00
 draft: false
 toc: false
