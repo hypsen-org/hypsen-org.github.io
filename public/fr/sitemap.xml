@@ -2,22 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://hypsen.org/fr/a-propos/</loc>
-    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://hypsen.org/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://hypsen.org/fr/a-propos/"
-                />
-  </url><url>
-    <loc>http://hypsen.org/fr/tags/accueil/</loc>
-    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
-  </url><url>
     <loc>http://hypsen.org/fr/tags/basse-vision/</loc>
     <lastmod>2023-08-06T21:59:54+02:00</lastmod>
     <xhtml:link
@@ -59,20 +43,30 @@
     <loc>http://hypsen.org/fr/vision/google-docs/</loc>
     <lastmod>2023-08-06T21:59:54+02:00</lastmod>
   </url><url>
-    <loc>http://hypsen.org/fr/vision/contexte/</loc>
-    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
-  </url><url>
-    <loc>http://hypsen.org/fr/menu/</loc>
+    <loc>http://hypsen.org/fr/a-propos/</loc>
     <lastmod>2023-08-06T21:59:54+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://hypsen.org/en/menu/"
+                href="http://hypsen.org/en/a-propos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://hypsen.org/fr/menu/"
+                href="http://hypsen.org/fr/a-propos/"
+                />
+  </url><url>
+    <loc>http://hypsen.org/fr/accueil/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hypsen.org/en/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://hypsen.org/fr/accueil/"
                 />
   </url><url>
     <loc>http://hypsen.org/fr/</loc>

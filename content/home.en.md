@@ -1,6 +1,6 @@
 ---
 title: "Hypersensitivity to light"
-slug: "menu"
+slug: "home"
 date: 2023-08-06T21:59:54+02:00
 draft: false
 toc: true
@@ -9,7 +9,7 @@ tags:
   - low vision
 ---
 ## Motivation
-I am [hypersensitive to light](https://w3c.github.io/low-vision-a11y-tf/requirements.html#light-and-glare-sensitivity). Here I share some measures and equipment that help me to live as normal a daily life as possible. If you or someone close to you is going through the same situation, I hope these few lines will be useful to you.
+I am [hypersensitive to light](https://w3c.github.io/low-vision-a11y-tf/requirements.html#light-and-glare-sensitivity)[^1]. Here I share some measures and equipment that help me to live as normal a daily life as possible. If you or someone close to you is going through the same situation, I hope these few lines will be useful to you.
 
 ## Context
 In May 2023, I had an [autoimmune reaction](https://en.wikipedia.org/wiki/Acute_disseminated_encephalomyelitis) which temporarily rendered me completely blind. Fortunately, I was remarkably taken care of by the teams in [CHUV](https://en.wikipedia.org/wiki/Lausanne_University_Hospital) and the [Hôpital Ophthalmique Jules Gonin](https://www.ophtalmique.ch/) in Lausanne. Less than two months after the end of the treatment, I had recovered most of the [sensory abilities](https://w3c.github.io/low-vision-a11y-tf/requirements.html#visual-impairments) that constitute vision:
@@ -49,23 +49,26 @@ Where possible, I include a link to the products or software I mention. I get no
 Finally, unless otherwise stated, I myself use the references mentioned.
 
 ## Glasses and accessories
-* [Sunglasses](sunglasses)
-* [Eyeglasses](eyeglasses)
-* [Hat](hat)
-* [Watch](watch)
+* [Sunglasses](../vision/sunglasses)
+* [Eyeglasses](../vision/eyeglasses)
+* [Hat](../vision/hat)
+* [Watch](../vision/watch)
 
 ## Taking Notes
-* [Notebooks, slates, tablets](note-taking)
+* [Notebooks, slates, tablets](../vision/note-taking)
 
 ## Computer
-* [Hardware](computer-hardware)
-* Operating System: [Windows](windows)
-* Operating System: [Linux](linux)
-* Internet browser: [Firefox](firefox)
-* Internet browser: [Chrome](chrome)
-* [Google Docs](google-doc)
+* [Hardware](../vision/computer-hardware)
+* Operating System: Windows (coming soon)
+* Operating System: Mac OS] (coming soon)
+* Operating System: [Linux](../vision/linux)
+* Internet browser: Firefox (coming soon)
+* Internet browser: Chrome (coming soon)
+* Google Docs (coming soon)
 
 ## Phone
-* [Model](phone)
+* Model (coming soon)
 * Settings
 * Apps
+
+[^1]: [This page](../about) gives more context.

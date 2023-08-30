@@ -57,8 +57,8 @@ languages:
         - 'Thème réalisé par <a href="https://github.com/rhazdon">DA</a>'
     menu:
       main:
-        - url: /menu/
-          name: Menu
+        - url: /accueil/
+          name: Accueil
           weight: 10
         - url: /a-propos/
           name: À propos
@@ -84,8 +84,8 @@ languages:
         - 'Theme by <a href="https://github.com/rhazdon">DA</a>'
     menu:
       main:
-        - url: /menu/
-          name: Menu
+        - url: /home/
+          name: Home
           weight: 10
         - url: /about/
           name: About
