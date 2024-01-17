@@ -5,7 +5,7 @@
     <link>http://hypsen.org/en/</link>
     <description>Recent content on HypSen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <language>en</language>
     <lastBuildDate>Sun, 06 Aug 2023 21:59:54 +0200</lastBuildDate><atom:link href="http://hypsen.org/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computer hardware</title>
@@ -39,21 +39,21 @@ Back Click here to go back to the low vision home page.</description>
     </item>
     
     <item>
-      <title>Hypersensibilité à la lumière</title>
-      <link>http://hypsen.org/en/a-propos/</link>
+      <title>Hypersensitivity to light</title>
+      <link>http://hypsen.org/en/about/</link>
       <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
       
-      <guid>http://hypsen.org/en/a-propos/</guid>
+      <guid>http://hypsen.org/en/about/</guid>
       <description>Personal background I became hypersensitive to light in May 2023, following an auto-immune reaction which made me totally blind for a few days. Fortunately, I was remarkably taken care of by the CHUV teams in Lausanne and less than two months after the end of the treatment, I had recovered most of the sensory abilities that constitute vision:
 visual acuity (the famous &amp;ldquo;10/10 for each eye&amp;rdquo;), the visual field, the perception of colors, starting with yellow and blue and therefore letting red come last, which is not without irony for a Swiss resident.</description>
     </item>
     
     <item>
       <title>Hypersensitivity to light</title>
-      <link>http://hypsen.org/en/home/</link>
+      <link>http://hypsen.org/en/adaptations/</link>
       <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
       
-      <guid>http://hypsen.org/en/home/</guid>
+      <guid>http://hypsen.org/en/adaptations/</guid>
       <description>Motivation I am hypersensitive to light1. Here I share some measures and equipment that help me to live as normal a daily life as possible. If you or someone close to you is going through the same situation, I hope these few lines will be useful to you.
 Context In May 2023, I had an autoimmune reaction which temporarily rendered me completely blind. Fortunately, I was remarkably taken care of by the teams in CHUV and the Hôpital Ophthalmique Jules Gonin in Lausanne.</description>
     </item>
@@ -98,6 +98,17 @@ The shade of the lenses, more or less dark The polarization of the lenses The ge
       <guid>http://hypsen.org/en/vision/watch/</guid>
       <description>This page presents the watch I selected after my sudden hypersensitivity to light.
 Being often dazzled outdoors and also having difficulty distinguishing low contrasts, I had to put aside the watch that had accompanied me for many years. I replaced it with a watch with an AMOLED screen whose main advantage is to display both deep blacks and intense colors. These elements allow an important contrast and comfortable reading even in direct sunlight.</description>
+    </item>
+    
+    <item>
+      <title>Visual Impairments</title>
+      <link>http://hypsen.org/en/adaptation/visual-impairments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hypsen.org/en/adaptation/visual-impairments/</guid>
+      <description>This document is an excerpt from the low vision accessibility page authored by W3C.
+The following section briefly introduces five types of visual impairments.
+Visual Acuity (Clarity) Visual acuity is the clarity or sharpness of vision. It relates to the finest detail a person can perceive. It is generally dependent on the functioning of the retina part of the eye and of the interpretation of the brain. Measurement of distance visual acuity is based on a standard of 20/20 (6/6 in metric).</description>
     </item>
     
   </channel>

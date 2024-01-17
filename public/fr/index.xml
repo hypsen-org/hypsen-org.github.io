@@ -5,34 +5,45 @@
     <link>http://hypsen.org/fr/</link>
     <description>Recent content on HypSen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <language>fr</language>
     <lastBuildDate>Sun, 06 Aug 2023 21:59:54 +0200</lastBuildDate><atom:link href="http://hypsen.org/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chrome</title>
-      <link>http://hypsen.org/fr/vision/chrome/</link>
+      <title>Adapter son environnement</title>
+      <link>http://hypsen.org/fr/adaptation/</link>
       <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
       
-      <guid>http://hypsen.org/fr/vision/chrome/</guid>
+      <guid>http://hypsen.org/fr/adaptation/</guid>
+      <description>Introduction Cette section présente les différents éléments que j&amp;rsquo;ai adaptés pour vivre presque normalement avec une hypersensibilité à la lumière.
+Pour vous représenter la nature et l&amp;rsquo;intensité de ma sensibilité, j&amp;rsquo;ai réalisé des illustrations visibles sur la page dédiée aux troubles de la vision.
+Lorsque cela est possible, j&amp;rsquo;inclus un lien vers les produits ou logiciels que je mentionne. Je n&amp;rsquo;en retire aucun bénéfice d&amp;rsquo;aucune sorte. Je le fais uniquement pour aider à identifier sans équivoque les produits ou logiciels en question.</description>
+    </item>
+    
+    <item>
+      <title>Chrome</title>
+      <link>http://hypsen.org/fr/adaptation/chrome/</link>
+      <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
+      
+      <guid>http://hypsen.org/fr/adaptation/chrome/</guid>
       <description>Thème de l&amp;rsquo;interface Il existe des dizaines de thèmes sombres pour personnaliser l&amp;rsquo;apparence de Chrome: la barre de titre, de menu, etc. J&amp;rsquo;utilise Just Dark Grey qui s&amp;rsquo;approche de l&amp;rsquo;apparence que j&amp;rsquo;ai donnée à Firefox, qui est mon navigateur principal. Vous trouverez certainement chaussure à votre pied et thème à votre vue.
 Chrome vous permet également d&amp;rsquo;utiliser la barre de titre et les bordures de fenêtre du système et de personnaliser la police de caractères.</description>
     </item>
     
     <item>
       <title>Couvre-chef</title>
-      <link>http://hypsen.org/fr/vision/couvre-chef/</link>
+      <link>http://hypsen.org/fr/adaptation/couvre-chef/</link>
       <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
       
-      <guid>http://hypsen.org/fr/vision/couvre-chef/</guid>
+      <guid>http://hypsen.org/fr/adaptation/couvre-chef/</guid>
       <description>En complément des lunettes, porter un chapeau ou une casquette permet de limiter l&amp;rsquo;éblouissement par les sources hautes (ciel clair, soleil, néons des magasins, etc.). Si je porte depuis des années, et au grand désarroi de mon épouse, une casquette tout à fait banale, il existe des casquettes spécialement conçues pour le port de lunettes &amp;ldquo;envahissantes&amp;rdquo;:
 Retour Cliquez ici pour retourner à l’index.</description>
     </item>
     
     <item>
       <title>Déficiences visuelles</title>
-      <link>http://hypsen.org/fr/vision/deficiences-visuelles/</link>
+      <link>http://hypsen.org/fr/adaptation/deficiences-visuelles/</link>
       <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
       
-      <guid>http://hypsen.org/fr/vision/deficiences-visuelles/</guid>
+      <guid>http://hypsen.org/fr/adaptation/deficiences-visuelles/</guid>
       <description>Ce document est un extrait, traduit en français, d&amp;rsquo;un texte rédigé en anglais par le W3C.
 La section qui suit introduit brièvement cinq types de déficiences visuelles.
 Acuité visuelle (Clarté) L&amp;rsquo;acuité visuelle est la clarté ou la netteté de la vision. Elle se rapporte aux plus petits détails qu&amp;rsquo;une personne peut percevoir. Elle dépend généralement du fonctionnement de la partie de la rétine de l&amp;rsquo;œil et de l&amp;rsquo;interprétation du cerveau. La mesure de l&amp;rsquo;acuité visuelle de la distance est basée sur une norme de 20/20 (6/6 en métrique).</description>
@@ -40,20 +51,20 @@ Acuité visuelle (Clarté) L&amp;rsquo;acuité visuelle est la clarté ou la net
     
     <item>
       <title>Essayer Linux</title>
-      <link>http://hypsen.org/fr/vision/essayer-linux/</link>
+      <link>http://hypsen.org/fr/adaptation/essayer-linux/</link>
       <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
       
-      <guid>http://hypsen.org/fr/vision/essayer-linux/</guid>
+      <guid>http://hypsen.org/fr/adaptation/essayer-linux/</guid>
       <description>Cette page s&amp;rsquo;adresse aux utilisateurs de Windows ou Mac OS qui souhaitent essayer Linux en toute sécurité, c&amp;rsquo;est-à-dire sans crainte de modifier quoi que ce soit sur leur ordinateur.
 À propos de Linux Linux est une famille de systèmes d&amp;rsquo;exploitations au même titre que Windows ou Mac OS. Cet article présente les grandes différences entre ces systèmes. Parmi les différents systèmes d&amp;rsquo;exploitation de la &amp;ldquo;famille&amp;rdquo; Linux, j&amp;rsquo;utilise Xubuntu car il fonctionne aussi bien sur des vieux ordinateurs que sur des machines puissantes et il se laisse personnaliser très simplement.</description>
     </item>
     
     <item>
       <title>Firefox</title>
-      <link>http://hypsen.org/fr/vision/firefox/</link>
+      <link>http://hypsen.org/fr/adaptation/firefox/</link>
       <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
       
-      <guid>http://hypsen.org/fr/vision/firefox/</guid>
+      <guid>http://hypsen.org/fr/adaptation/firefox/</guid>
       <description>Après des années à utiliser Chrome, j&amp;rsquo;ai de nouveau fait de Firefox mon navigateur par défaut.
 Thème de l&amp;rsquo;interface J&amp;rsquo;utilise simplement le thème par défaut, appelé système, dans sa version auto:
 La version auto signifie que Firefox applique automatiquement le mode (clair ou sombre) configuré au niveau plus global du système d&amp;rsquo;exploitation (Windows, Mac OS, Linux, etc)1.
@@ -62,40 +73,20 @@ Si le thème par défaut ne vous plaît pas, il existe des dizaines de thèmes s
     
     <item>
       <title>Google Docs</title>
-      <link>http://hypsen.org/fr/vision/google-docs/</link>
+      <link>http://hypsen.org/fr/adaptation/google-docs/</link>
       <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
       
-      <guid>http://hypsen.org/fr/vision/google-docs/</guid>
+      <guid>http://hypsen.org/fr/adaptation/google-docs/</guid>
       <description>Les deux problèmes de Google Docs Google Docs pose problème aux personnes hypersensibles à la lumière à deux titres.
 Premièrement, l&amp;rsquo;interface de l&amp;rsquo;application est uniquement disponible en mode clair, c&amp;rsquo;est-à-dire que même si vous réglez votre navigateur en mode sombre, Google Docs gardera son interface par défaut avec une barre de menu blanche, de même pour le &amp;ldquo;fond&amp;rdquo; du site autour des pages du document. Google ne propose pas de mode sombre capable de suivre le réglage du navigateur.</description>
     </item>
     
     <item>
-      <title>Hypersensibilité à la lumière</title>
-      <link>http://hypsen.org/fr/a-propos/</link>
-      <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
-      
-      <guid>http://hypsen.org/fr/a-propos/</guid>
-      <description>Histoire personelle Je suis devenu hypersensible à la lumière en mai 2023, suite à une réaction auto-immune qui m&amp;rsquo;a rendu totalement aveugle pendant quelques jours. J&amp;rsquo;ai heureusement été remarquablement pris en charge par les équipes du CHUV à Lausanne et moins de deux mois après la fin du traitement, j&amp;rsquo;avais récupéré la majorité des capacités sensorielles qui constituent la vision:
-l&amp;rsquo;acuité visuelle (le célèbre &amp;ldquo;10/10 à chaque oeil&amp;rdquo;), le champ visuel, la perception des couleurs, en commençant par le jaune et le bleu et laissant donc le rouge revenir en dernier, ce qui n&amp;rsquo;est pas sans ironie pour un résident suisse.</description>
-    </item>
-    
-    <item>
-      <title>Hypersensibilité à la lumière</title>
-      <link>http://hypsen.org/fr/accueil/</link>
-      <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
-      
-      <guid>http://hypsen.org/fr/accueil/</guid>
-      <description>Motivation Je suis hypersensible à la lumière1. Je partage ici quelques mesures et équipements qui m&amp;rsquo;aident à vivre cette situation aussi normalement que possible. Si vous ou l&amp;rsquo;un de vos proches vivez la même situation, j&amp;rsquo;espère que ces quelques lignes vous seront utiles.
-Remarque sur les liens Lorsque cela est possible, j&amp;rsquo;inclus un lien vers les produits ou logiciels que je mentionne. Je n&amp;rsquo;en retire aucun bénéfice d&amp;rsquo;aucune sorte. Je le fais uniquement pour aider à identifier sans équivoque les produits ou logiciels en question.</description>
-    </item>
-    
-    <item>
       <title>Linux en mode sombre</title>
-      <link>http://hypsen.org/fr/vision/linux/</link>
+      <link>http://hypsen.org/fr/adaptation/linux/</link>
       <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
       
-      <guid>http://hypsen.org/fr/vision/linux/</guid>
+      <guid>http://hypsen.org/fr/adaptation/linux/</guid>
       <description>J&amp;rsquo;ai quitté le monde Windows en 2009 pour Linux et plus précisément Xubuntu, dont je suis extrêmement satisfait. Avec quelques connaissances informatiques, Linux permet de personnaliser à peu près n&amp;rsquo;importe quel détail de l&amp;rsquo;expérience utilisateur, en particulier l&amp;rsquo;apparence. C&amp;rsquo;est particulièrement pratique lorsque l&amp;rsquo;on vit avec une déficience visuelle, puisqu&amp;rsquo;il est facile de passer de ça&amp;hellip;
 &amp;hellip; à ça &amp;hellip;
 Cette page présente les personnalisations que j&amp;rsquo;ai apportées à mon environnement de bureau pour m&amp;rsquo;aider à mieux supporter l&amp;rsquo;exposition aux écrans d&amp;rsquo;ordinateur malgré mon hypersensibilité à la lumière.</description>
@@ -103,10 +94,10 @@ Cette page présente les personnalisations que j&amp;rsquo;ai apportées à mon 
     
     <item>
       <title>Lunettes de soleil basse vision</title>
-      <link>http://hypsen.org/fr/vision/lunettes-de-soleil/</link>
+      <link>http://hypsen.org/fr/adaptation/lunettes-de-soleil/</link>
       <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
       
-      <guid>http://hypsen.org/fr/vision/lunettes-de-soleil/</guid>
+      <guid>http://hypsen.org/fr/adaptation/lunettes-de-soleil/</guid>
       <description>Cette page présente le processus de sélection de lunettes de soleil que j&amp;rsquo;ai suivi en raison de ma soudaine hypersensibilité à la lumière.
 Étant hypersensible à la lumière, porter des lunettes de soleil appropriées a considérablement amélioré ma qualité de vie. D&amp;rsquo;après mes discussions avec des ergothérapeutes et des opticiens spécialisés, le choix des lunettes capables de soulager l&amp;rsquo;hypersensibilité repose sur les éléments suivants:
 la teinte des verres, plus ou moins foncée la polarisation des verres la géométrie de la monture: courbure et épaisseur des branches Teinte des verres Éblouissement et UV Il faut distinguer protection contre l&amp;rsquo;éblouissement et protection contre les ultra-violets.</description>
@@ -114,20 +105,20 @@ la teinte des verres, plus ou moins foncée la polarisation des verres la géom�
     
     <item>
       <title>Lunettes de vue</title>
-      <link>http://hypsen.org/fr/vision/lunettes-de-vue/</link>
+      <link>http://hypsen.org/fr/adaptation/lunettes-de-vue/</link>
       <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
       
-      <guid>http://hypsen.org/fr/vision/lunettes-de-vue/</guid>
+      <guid>http://hypsen.org/fr/adaptation/lunettes-de-vue/</guid>
       <description>Les opticiens à qui j&amp;rsquo;ai exprimé ma situation expliquent qu&amp;rsquo;il est parfois possible de produire des verres qui sont à la fois:
 adaptés à la vue, pour corriger une myopie, une hypermétropie, un astygmatisme, par exemple teintés, pour protéger contre l&amp;rsquo;éblouissement courbés pour réduire l&amp;rsquo;éblouissement latéral polarisants, pour augmenter le contraste Il semble que plus la correction est faible, plus les verres seront fins et plus il sera possible de les courber, teinter, polariser, etc.</description>
     </item>
     
     <item>
       <title>Mac OS</title>
-      <link>http://hypsen.org/fr/vision/mac-os/</link>
+      <link>http://hypsen.org/fr/adaptation/mac-os/</link>
       <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
       
-      <guid>http://hypsen.org/fr/vision/mac-os/</guid>
+      <guid>http://hypsen.org/fr/adaptation/mac-os/</guid>
       <description>Configurer le mode sombre N&amp;rsquo;ayant pas d&amp;rsquo;ordinateur sous Mac OS, je ne peux que partager des liens vers des guides francophones disponibles en mode sombre et qui me semblent suffisamment détaillés (pour le peu que je puisse en juger).
 Au choix:
 Clubic Numerama De manière assez ironique, la page d&amp;rsquo;aide d&amp;rsquo;Apple expliquant comment activer le mode sombre n&amp;rsquo;est elle-même pas disponible en mode sombre&amp;hellip;
@@ -136,10 +127,10 @@ Retour Cliquez ici pour retourner à l’index.</description>
     
     <item>
       <title>Matériel informatique</title>
-      <link>http://hypsen.org/fr/vision/materiel-informatique/</link>
+      <link>http://hypsen.org/fr/adaptation/materiel-informatique/</link>
       <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
       
-      <guid>http://hypsen.org/fr/vision/materiel-informatique/</guid>
+      <guid>http://hypsen.org/fr/adaptation/materiel-informatique/</guid>
       <description>Écran Pour remplacer deux écrans &amp;ldquo;droits&amp;rdquo; de 14&amp;quot; vieillissants, au contraste et à la profondeur de noir médiocres, je cherchais un écran unique avec les caractéristiques suivantes:
 dalle VA1 [explications] contraste statique de 2500:1 ou plus [explications] incurvé environ 34&amp;quot; Après lecture de quelques comparatifs en ligne, j&amp;rsquo;hésitais entre:
 le Huawei Mateview GT 34&amp;quot; luminosité: 350 cd/m² contraste statique: 4000:1 résolution: 3440 x 1440 le Samsung Odyssey G5 32&amp;quot;. luminosité: 300 cd/m² contraste statique: 2500:1 résolution: 2560 x 1440 La décision finale, en faveur du Huawei, s&amp;rsquo;est basée sur le contraste, la résolution et l&amp;rsquo;opportunité d&amp;rsquo;acquérir le Huawei en solde.</description>
@@ -147,30 +138,40 @@ le Huawei Mateview GT 34&amp;quot; luminosité: 350 cd/m² contraste statique: 4
     
     <item>
       <title>Montre</title>
-      <link>http://hypsen.org/fr/vision/montre/</link>
+      <link>http://hypsen.org/fr/adaptation/montre/</link>
       <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
       
-      <guid>http://hypsen.org/fr/vision/montre/</guid>
+      <guid>http://hypsen.org/fr/adaptation/montre/</guid>
       <description>Cette page présente la montre que j&amp;rsquo;ai choisie suite à l&amp;rsquo;apparition de mon hypersensibilité à la lumière.
 Étant souvent ébloui en extérieur et ayant également des difficultés à distinguer les faibles contrastes, j&amp;rsquo;ai dû mettre de côté la montre qui m&amp;rsquo;accompagnait depuis de nombreuses années. Je l´ai remplacée par une montre connectée disposant d&amp;rsquo;un écran AMOLED dont le principal atout est d&amp;rsquo;afficher à la fois des noirs profonds et des couleurs intenses.</description>
     </item>
     
     <item>
-      <title>Prendre des notes</title>
-      <link>http://hypsen.org/fr/vision/prise-de-notes/</link>
+      <title>Pourquoi ce site?</title>
+      <link>http://hypsen.org/fr/a-propos/</link>
       <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
       
-      <guid>http://hypsen.org/fr/vision/prise-de-notes/</guid>
+      <guid>http://hypsen.org/fr/a-propos/</guid>
+      <description>À propos de moi Je suis devenu hypersensible à la lumière en mai 2023, suite à une réaction auto-immune qui m&amp;rsquo;a rendu totalement aveugle pendant quelques jours. J&amp;rsquo;ai heureusement été remarquablement pris en charge par les équipes du CHUV à Lausanne et moins de deux mois après la fin du traitement, j&amp;rsquo;avais récupéré la majorité des capacités sensorielles qui constituent la vision:
+l&amp;rsquo;acuité visuelle (le célèbre &amp;ldquo;10/10 à chaque oeil&amp;rdquo;), le champ visuel, la perception des couleurs, en commençant par le jaune et le bleu et laissant donc le rouge revenir en dernier, ce qui n&amp;rsquo;est pas sans ironie pour un résident suisse.</description>
+    </item>
+    
+    <item>
+      <title>Prendre des notes</title>
+      <link>http://hypsen.org/fr/adaptation/prise-de-notes/</link>
+      <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
+      
+      <guid>http://hypsen.org/fr/adaptation/prise-de-notes/</guid>
       <description>L&amp;rsquo;hypersensibilité à la lumière rend appréciable voire indispensable l&amp;rsquo;écriture blanche sur fond noir. Voici donc les références que j&amp;rsquo;utilise actuellement:
 Cahier et stylos Cahier de 200 pages noires Black Paper Notebook, à ma connaissance introuvables en magasin physique. Stylos à encre blanche Gelly Roll par Sakura, trouvables dans les bonnes papeteries. Ardoise et crayons de craie Une alternative plus économique et plus écologique à la commande de cahiers est l&amp;rsquo;utilisation d&amp;rsquo;une ardoise avec des crayons de craie qui j&amp;rsquo;ai trouvés au rayon jeux et jouets de mon magasin.</description>
     </item>
     
     <item>
       <title>Téléphone</title>
-      <link>http://hypsen.org/fr/vision/telephone/</link>
+      <link>http://hypsen.org/fr/adaptation/telephone/</link>
       <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
       
-      <guid>http://hypsen.org/fr/vision/telephone/</guid>
+      <guid>http://hypsen.org/fr/adaptation/telephone/</guid>
       <description>Modèle Pour choisir un modèle adapté à votre basse vision, je vous conseille de prêter attention à l&amp;rsquo;écran, évidemment, mais aussi aux réglages possibles.
 Écran Tout comme les montres connectées, il existe des téléphones avec écran AMOLED à des prix abordables et qui offrent à la fois une excellente profondeur de noir et un excellent contraste.
 Réglages En comparant les réglages d&amp;rsquo;accessibilité de mon téléphone avec ceux de mon entourage, j&amp;rsquo;ai réalisé que tous les modèles d&amp;rsquo;une même marque ne proposent pas les mêmes possibilités de personnalisation.</description>
@@ -178,10 +179,10 @@ Réglages En comparant les réglages d&amp;rsquo;accessibilité de mon télépho
     
     <item>
       <title>Windows</title>
-      <link>http://hypsen.org/fr/vision/windows/</link>
+      <link>http://hypsen.org/fr/adaptation/windows/</link>
       <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
       
-      <guid>http://hypsen.org/fr/vision/windows/</guid>
+      <guid>http://hypsen.org/fr/adaptation/windows/</guid>
       <description>Configurer le mode sombre N&amp;rsquo;ayant pas d&amp;rsquo;ordinateur sous Windows, je ne peux que partager des liens vers des guides francophones disponibles en mode sombre et qui me semblent suffisamment détaillés (pour le peu que je puisse en juger).
 Au choix:
 Tom&amp;rsquo;s Guide Numerama Le Blog du Modérateur De manière assez ironique, la page d&amp;rsquo;aide de Microsoft expliquant comment activer le mode sombre n&amp;rsquo;est elle-même pas disponible en mode sombre&amp;hellip;

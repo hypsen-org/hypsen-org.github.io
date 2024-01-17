@@ -1,5 +1,5 @@
 baseURL: 'http://hypsen.org/'
-defaultContentLanguage: fr
+defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 title: HypSen
 theme: hello-friend-ng
@@ -40,25 +40,26 @@ taxonomies:
 
 languages:
   fr:
-    title: HypSen
-    subtitle: Bienvenue
-    homeSubtitle: Ce site est consacré aux personnes hypersensibles à la lumière.
-    keywords: ''
-    copyright: >-
-      <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
-      rel="noopener">CC BY-NC 4.0</a>
-    readOtherPosts: Voir les autres pages.
-    footer:
-      trademark: true
-      rss: true
-      copyright: false
-      author: true
-      bottomText:
-        - 'Thème réalisé par <a href="https://github.com/rhazdon">DA</a>'
+    params:
+      title: HypSen
+      subtitle: Bienvenue
+      homeSubtitle: Ce site est consacré aux personnes hypersensibles à la lumière.
+      keywords: ''
+      copyright: >-
+        <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
+        rel="noopener">CC BY-NC 4.0</a>
+      readOtherPosts: Voir les autres pages.
+      footer:
+        trademark: true
+        rss: true
+        copyright: false
+        author: true
+        bottomText:
+          - 'Thème réalisé par <a href="https://github.com/rhazdon">DA</a>'
     menu:
       main:
         - url: /adaptation
-          name: Adaptation
+          name: S'adapter
           weight: 10
         - url: /a-propos/
           name: À propos
@@ -67,25 +68,26 @@ languages:
           name: EN
           weight: 1000
   en:
-    title: HypSen
-    subtitle: Welcome
-    homeSubtitle: This site is for people with hypersensitivity to light.
-    keywords: ''
-    copyright: >-
-      <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
-      rel="noopener">CC BY-NC 4.0</a>
-    readOtherPosts: Read other posts
-    footer:
-      trademark: true
-      rss: true
-      copyright: false
-      author: true
-      bottomText:
-        - 'Theme by <a href="https://github.com/rhazdon">DA</a>'
+    params:
+      title: HypSen
+      subtitle: Welcome
+      homeSubtitle: This site is for people with hypersensitivity to light.
+      keywords: ''
+      copyright: >-
+        <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
+        rel="noopener">CC BY-NC 4.0</a>
+      readOtherPosts: Read other posts
+      footer:
+        trademark: true
+        rss: true
+        copyright: false
+        author: true
+        bottomText:
+          - 'Theme by <a href="https://github.com/rhazdon">DA</a>'
     menu:
       main:
         - url: /adaptation
-          name: Adaptation
+          name: How to adapt
           weight: 10
         - url: /about/
           name: About

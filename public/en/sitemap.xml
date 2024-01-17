@@ -20,7 +20,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://hypsen.org/fr/vision/materiel-informatique/"
+                href="http://hypsen.org/fr/adaptation/materiel-informatique/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -33,7 +33,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://hypsen.org/fr/vision/lunettes-de-vue/"
+                href="http://hypsen.org/fr/adaptation/lunettes-de-vue/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -46,7 +46,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://hypsen.org/fr/vision/couvre-chef/"
+                href="http://hypsen.org/fr/adaptation/couvre-chef/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -54,7 +54,7 @@
                 href="http://hypsen.org/en/vision/hat/"
                 />
   </url><url>
-    <loc>http://hypsen.org/en/a-propos/</loc>
+    <loc>http://hypsen.org/en/about/</loc>
     <lastmod>2023-08-06T21:59:54+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -64,20 +64,20 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://hypsen.org/en/a-propos/"
+                href="http://hypsen.org/en/about/"
                 />
   </url><url>
-    <loc>http://hypsen.org/en/home/</loc>
+    <loc>http://hypsen.org/en/adaptations/</loc>
     <lastmod>2023-08-06T21:59:54+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://hypsen.org/fr/accueil/"
+                href="http://hypsen.org/fr/adaptation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://hypsen.org/en/home/"
+                href="http://hypsen.org/en/adaptations/"
                 />
   </url><url>
     <loc>http://hypsen.org/en/</loc>
@@ -98,7 +98,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://hypsen.org/fr/vision/linux/"
+                href="http://hypsen.org/fr/adaptation/linux/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -114,7 +114,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://hypsen.org/fr/vision/prise-de-notes/"
+                href="http://hypsen.org/fr/adaptation/prise-de-notes/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -127,7 +127,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://hypsen.org/fr/vision/lunettes-de-soleil/"
+                href="http://hypsen.org/fr/adaptation/lunettes-de-soleil/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -153,7 +153,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://hypsen.org/fr/vision/montre/"
+                href="http://hypsen.org/fr/adaptation/montre/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -183,6 +183,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://hypsen.org/en/series/"
+                />
+  </url><url>
+    <loc>http://hypsen.org/en/adaptation/visual-impairments/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://hypsen.org/fr/adaptation/deficiences-visuelles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hypsen.org/en/adaptation/visual-impairments/"
                 />
   </url>
 </urlset>

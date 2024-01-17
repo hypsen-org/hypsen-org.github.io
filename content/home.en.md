@@ -1,6 +1,6 @@
 ---
 title: "Hypersensitivity to light"
-slug: "adaptations"
+slug: "adaptation"
 date: 2023-08-06T21:59:54+02:00
 draft: false
 toc: true
@@ -8,16 +8,10 @@ images:
 tags:
   - low vision
 ---
-## Motivation
-I am [hypersensitive to light](https://w3c.github.io/low-vision-a11y-tf/requirements.html#light-and-glare-sensitivity)[^1]. Here I share some measures and equipment that help me to live as normal a daily life as possible. If you or someone close to you is going through the same situation, I hope these few lines will be useful to you.
+## Introduction
+This section presents the various elements I have adapted to live almost normally with [light hypersensitivity](../adaptation/visual-impairments/#light-and-glare-sensitivity).
 
-## Context
-In May 2023, I had an [autoimmune reaction](https://en.wikipedia.org/wiki/Acute_disseminated_encephalomyelitis) which temporarily rendered me completely blind. Fortunately, I was remarkably taken care of by the teams in [CHUV](https://en.wikipedia.org/wiki/Lausanne_University_Hospital) and the [Hôpital Ophthalmique Jules Gonin](https://www.ophtalmique.ch/) in Lausanne. Less than two months after the end of the treatment, I had recovered most of the [sensory abilities](https://w3c.github.io/low-vision-a11y-tf/requirements.html#visual-impairments) that constitute vision:
-* **visual acuity** (the famous "10/10 for each eye"),
-* the **visual field**,
-* the **perception of colors**, starting with yellow and blue and therefore letting red come last, which is not without irony for a Swiss resident.
-
-Today, only my **sensitivity to light** and **sensitivity to low contrasts** are still deficient. Concretely, I am much more easily dazzled than before by white, clear objects and saturated colors (the neon lights of stores, for example). Poor light management also makes it harder for me to spot tone-on-tone objects, such as my black phone on a black surface.
+To give you an idea of the nature and intensity of my sensitivity, and measure whether my condition is similar to yours or not, I prepared some examples below.
 
 ## Examples
 ### Glare
