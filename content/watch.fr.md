@@ -9,7 +9,7 @@ tags:
   - basse vision
 ---
 
-Cette page présente la montre que j'ai choisie suite à l'apparition de mon hypersensibilité à la lumière.
+Cette page présente la montre que j'ai choisie suite à l'apparition de mon hhyper-sensibilité à la lumière.
 
 Étant souvent ébloui en extérieur et ayant également des difficultés à distinguer les faibles contrastes, j'ai dû mettre de côté la montre qui m'accompagnait depuis de nombreuses années. Je l´ai remplacée par une montre connectée disposant d'un écran [AMOLED](https://fr.wikipedia.org/wiki/Diode_%C3%A9lectroluminescente_organique#Avantages) dont le principal atout est d'afficher à la fois des noirs profonds et des couleurs intenses. Ces éléments permettent un contraste important et une lecture confortable même en plein soleil.
 

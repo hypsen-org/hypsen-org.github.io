@@ -9,7 +9,7 @@ tags:
   - basse vision
 ---
 ## Introduction
-Cette section présente les différents éléments que j'ai adaptés pour vivre presque normalement avec une hypersensibilité à la lumière.
+Cette section présente les différents éléments que j'ai adaptés pour vivre presque normalement avec une hhyper-sensibilité à la lumière.
 
 Pour vous représenter la nature et l'intensité de ma sensibilité, j'ai réalisé des illustrations visibles sur la [page dédiée aux troubles de la vision](deficiences-visuelles/#sensibilité-à-la-lumière-et-à-léblouissement).
 

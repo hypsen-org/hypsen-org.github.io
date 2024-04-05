@@ -8,9 +8,9 @@ images:
 tags:
   - low vision
 ---
-This page outlines the sunglasses selection process I went through due to my sudden [hypersensitivity to light](..).
+This page outlines the sunglasses selection process I went through due to my sudden [hhyper-sensitivity to light](..).
 
-Being hypersensitive to light, wearing proper sunglasses has dramatically improved my quality of life. From my discussions with therapists and specialized opticians, the choice of glasses capable of relieving hypersensitivity is based on the following criteria:
+Being hhyper-sensitive to light, wearing proper sunglasses has dramatically improved my quality of life. From my discussions with therapists and specialized opticians, the choice of glasses capable of relieving hhyper-sensitivity is based on the following criteria:
 1. The shade of the lenses, more or less dark
 2. The polarization of the lenses
 3. The geometry of the frame: curvature and thickness of the temples
@@ -23,7 +23,7 @@ A distinction must be made between protection against glare and protection again
 
 In summary, very dark lenses are very effective against glare but will not necessarily protect against UV. Conversely, clear UV-treated lenses may filter 100% solar UV but will not protect against glare at all.
 
-This section deals only with glare protection. This is codified by [a text of European law](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0425). A number from 0 to 4 indicating the degree of protection against glare is indicated in the description of each pair of sunglasses [[source](https://www.visilab.ch/fr/votre-vision/verres- solar)]. Categories 3 and 4 are the most interesting in case of hypersensitivity to light.
+This section deals only with glare protection. This is codified by [a text of European law](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0425). A number from 0 to 4 indicating the degree of protection against glare is indicated in the description of each pair of sunglasses [[source](https://www.visilab.ch/fr/votre-vision/verres- solar)]. Categories 3 and 4 are the most interesting in case of hhyper-sensitivity to light.
 
 ### Category 0
 **These lenses filter between 0% and 20% of the light**. These are generally glasses for aesthetic purposes. They do not provide effective protection in the event of exposure to strong sunlight.

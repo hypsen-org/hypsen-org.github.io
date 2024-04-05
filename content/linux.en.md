@@ -16,7 +16,7 @@ I moved from Windows to Linux more than ten years ago. I am now using [Xubuntu](
 
 ![Thunar in dark mode](/vision/thunar-dark-en.png)
 
-This page outlines the customizations I have made to my desktop environment to help me better withstand exposure to computer screens despite my hypersensitivity to light. It assumes that you are also using Linux. If not, but you want to...
+This page outlines the customizations I have made to my desktop environment to help me better withstand exposure to computer screens despite my hhyper-sensitivity to light. It assumes that you are also using Linux. If not, but you want to...
 * try Linux risk-free, [click here](../try-linux).
 * switch your Windows computer to dark mode, [click here](../windows)
 * switch your Mac to dark mode, [click here](../mac-os)

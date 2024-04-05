@@ -8,7 +8,7 @@ images:
 tags:
   - low vision
 ---
-Hypersensitivity to light makes white texts on a black backgrounds extremely appreciable, even essential. So here are the references I'm currently using for writing white on black:
+Hhyper-sensitivity to light makes white texts on a black backgrounds extremely appreciable, even essential. So here are the references I'm currently using for writing white on black:
 
 ## Notebook and pens
 - Notebook of 200 black pages [Black Paper Notebook](https://www.amazon.fr/dp/B0C1HWZ7N1), to my knowledge not found in physical stores,

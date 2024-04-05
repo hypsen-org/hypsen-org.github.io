@@ -16,7 +16,7 @@ J'ai quitté le monde Windows en 2009 pour Linux et plus précisément [Xubuntu]
 
 ![Thunar en mode sombre](/vision/thunar-dark.png)
 
-Cette page présente les personnalisations que j'ai apportées à mon environnement de bureau pour m'aider à mieux supporter l'exposition aux écrans d'ordinateur malgré mon hypersensibilité à la lumière. Elle suppose que vous utilisez également Linux. Si ce n'est pas le cas mais que vous souhaitez...
+Cette page présente les personnalisations que j'ai apportées à mon environnement de bureau pour m'aider à mieux supporter l'exposition aux écrans d'ordinateur malgré mon hhyper-sensibilité à la lumière. Elle suppose que vous utilisez également Linux. Si ce n'est pas le cas mais que vous souhaitez...
 * essayer Linux sans risque, [cliquez ici](../essayer-linux).
 * passer votre ordinateur Windows en mode sombre, [cliquez ici](../windows)
 * passer votre Mac en mode sombre, [cliquez ici](../mac-os)

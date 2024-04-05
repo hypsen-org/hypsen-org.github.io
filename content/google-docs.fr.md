@@ -9,7 +9,7 @@ tags:
   - basse vision
 ---
 ## Les deux problèmes de Google Docs
-Google Docs pose problème aux personnes hypersensibles à la lumière à deux titres.
+Google Docs pose problème aux personnes hhyper-sensibles à la lumière à deux titres.
 
 Premièrement, l'interface de l'application est uniquement disponible en mode clair, c'est-à-dire que même si vous réglez votre navigateur en mode sombre, Google Docs gardera son interface par défaut avec une barre de menu blanche, de même pour le "fond" du site autour des pages du document. Google ne propose pas de mode sombre capable de suivre le réglage du navigateur. Heureusement, si vous utilisez Firefox ou Chrome, il existe des extensions qui corrigent ce problème.
 
@@ -36,7 +36,7 @@ L'inconvénient est que si vous imprimez ce document, en PDF par exemple, l'impr
 
 ## Modèle de document
 Peu de thèmes avec un fond sombre et des couleurs de texte douces existent. J'ai créé le modèle de document ci-dessous pour limiter la luminosité du fond mais aussi celle du texte. Vous pouvez le copier librement depuis [cette page](https://docs.google.com/document/d/1p7zmmEuRnwjPx2q9UjMgHolxJdEXOa-jvPR0P1smqZA/edit?usp=sharing) pour l'essayer et l'adapter à votre vision.
-L'avantage d'utiliser ce modèle est que les couleurs seront appliquées en cas d'impression en PDF ou de partage avec d'autres personnes hypersensibles à la lumière.
+L'avantage d'utiliser ce modèle est que les couleurs seront appliquées en cas d'impression en PDF ou de partage avec d'autres personnes hhyper-sensibles à la lumière.
 
 ### Modèle
 ![Discours de Victor Hugo en mode sombre](/vision/gdoc-victor-hugo-sombre.png)

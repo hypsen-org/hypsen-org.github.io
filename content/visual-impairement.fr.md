@@ -28,11 +28,11 @@ Les images ci-dessous ne sont pas issues du site du W3C. Je les ai (maladroiteme
 
 |![Livre "normal"](/vision/livre-normal.png)|![Livre "hyper-sensible"](/vision/livre-ebloui.png)|
 |---|---|
-|Lecture sans hypersensibilité à la lumière|Lecture avec hypersensibilité à la lumière|
+|Lecture sans hhyper-sensibilité à la lumière|Lecture avec hhyper-sensibilité à la lumière|
 
 |![Images du bureau vision "normale"](/vision/cat-on-desk-normal.png)|![Images du bureau vision "hyper-sensible"](/vision/cat-on-desk-blinded.png)|
 |---|---|
-|Vision sans hypersensibilité à la lumière|Vision avec hypersensibilité à la lumière|
+|Vision sans hhyper-sensibilité à la lumière|Vision avec hhyper-sensibilité à la lumière|
 
 ## Sensibilité au contraste
 

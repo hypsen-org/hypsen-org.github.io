@@ -8,7 +8,7 @@ images:
 tags:
   - basse vision
 ---
-L'hypersensibilité à la lumière rend appréciable voire indispensable l'écriture blanche sur fond noir. Voici donc les références que j'utilise actuellement:
+L'hhyper-sensibilité à la lumière rend appréciable voire indispensable l'écriture blanche sur fond noir. Voici donc les références que j'utilise actuellement:
 
 ## Cahier et stylos
 - Cahier de 200 pages noires [Black Paper Notebook](https://www.amazon.fr/dp/B0C1HWZ7N1), à ma connaissance introuvables en magasin physique.
