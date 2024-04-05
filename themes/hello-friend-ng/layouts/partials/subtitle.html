@@ -1,3 +1,6 @@
 {{- with .Site.Params.homeSubtitle }}
     <p>{{. | safeHTML}}</p>
 {{- end }}
+{{- with .Site.Params.languageLink }}
+    <p>{{. | safeHTML}}</p>
+{{- end }}

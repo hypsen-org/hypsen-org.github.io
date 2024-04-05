@@ -17,6 +17,8 @@ params:
   dateformNumTime: '2006-01-02 15:04'
   enableThemeToggle: true
   enableSharingButtons: true
+  homeSubtitle: This site is dedicated to people with hyper-sensitivity to light. <br/> Ce site est consacré aux personnes hyper-sensibles à la lumière.
+  languageLink: <a href="/en/adaptation">English</a> &#x2022; <a href="/fr/adaptation">Français</a>
   footer:
     trademark: true
     rss: true
@@ -43,7 +45,6 @@ languages:
     params:
       title: HypSen
       subtitle: Bienvenue
-      homeSubtitle: Ce site est consacré aux personnes hypersensibles à la lumière.
       keywords: ''
       copyright: >-
         <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
@@ -55,7 +56,7 @@ languages:
         copyright: false
         author: true
         bottomText:
-          - 'Thème réalisé par <a href="https://github.com/rhazdon">DA</a>'
+          - 'Thème inspiré de <a href="https://github.com/rhazdon">DA</a>'
     menu:
       main:
         - url: /adaptation
@@ -71,7 +72,6 @@ languages:
     params:
       title: HypSen
       subtitle: Welcome
-      homeSubtitle: This site is for people with hypersensitivity to light.
       keywords: ''
       copyright: >-
         <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
@@ -83,7 +83,7 @@ languages:
         copyright: false
         author: true
         bottomText:
-          - 'Theme by <a href="https://github.com/rhazdon">DA</a>'
+          - 'Theme adapted from <a href="https://github.com/rhazdon">DA</a>'
     menu:
       main:
         - url: /adaptation
