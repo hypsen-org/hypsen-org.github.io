@@ -59,7 +59,7 @@ languages:
     menu:
       main:
         - url: /adaptation
-          name: S'adapter
+          name: Adaptations
           weight: 10
         - url: /a-propos/
           name: À propos
