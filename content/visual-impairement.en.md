@@ -29,11 +29,11 @@ The images below are not from the W3C site. They were (awkwardly) created by me 
 
 |![Normal reading](/vision/livre-normal.png)|![Reading with hyper sensitivity to light"](/vision/livre-ebloui.png)|
 |---|---|
-|Reading without light hhyper-sensitivity|Reading with light hhyper-sensitivity|
+|Reading without light hyper-sensitivity|Reading with light hyper-sensitivity|
 
 |![Images du bureau vision "normale"](/vision/cat-on-desk-normal.png)|![Images du bureau vision "hyper-sensible"](/vision/cat-on-desk-blinded.png)|
 |---|---|
-|Vision without light hhyper-sensitivity|Vision wit light hhyper-sensitivity|
+|Vision without light hyper-sensitivity|Vision wit light hyper-sensitivity|
 
 ## Contrast Sensitivity
 

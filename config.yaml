@@ -17,8 +17,7 @@ params:
   dateformNumTime: '2006-01-02 15:04'
   enableThemeToggle: true
   enableSharingButtons: true
-  homeSubtitle: This site is dedicated to people with hyper-sensitivity to light. <br/> Ce site est consacré aux personnes hyper-sensibles à la lumière.
-  languageLink: <a href="/en/adaptation">English</a> &#x2022; <a href="/fr/adaptation">Français</a>
+  homeSubtitle: <div>This site covers hyper-sensitivity to light. <br/> <a href="/en/adaptation">Browse in English</a></div>&#x2022;<div>Ce site traite de l'hyper-sensibilité à la lumière.<br/><a href="/fr/adaptation">Naviguer en Français</a></div>
   footer:
     trademark: true
     rss: true

@@ -8,7 +8,7 @@ images:
 tags:
   - low vision
 ---
-This page presents the watch I selected after my sudden hhyper-sensitivity to light.
+This page presents the watch I selected after my sudden hyper-sensitivity to light.
 
 Being often dazzled outdoors and also having difficulty distinguishing low contrasts, I had to put aside the watch that had accompanied me for many years. I replaced it with a watch with an [AMOLED](https://en.wikipedia.org/wiki/OLED) screen whose main advantage is to display both deep blacks and intense colors. These elements allow an important contrast and comfortable reading even in direct sunlight.
 
