@@ -27,7 +27,7 @@ Many people with low vision have extreme sensitivity to light (called photophobi
 ### Simulated Examples of Light Sensitivity
 The images below are not from the W3C site. They were (awkwardly) created by me to illustrate the glare I experience in common situations.
 
-|![Normal reading](/vision/livre-normal.png)|![Reading with hyper sensitivity to light"](/vision/livre-ebloui.png)|
+|![Normal reading](/vision/book-sample-normal.png)|![Reading with hyper sensitivity to light"](/vision/book-sample-blinded.png)|
 |---|---|
 |Reading without light hyper-sensitivity|Reading with light hyper-sensitivity|
 
