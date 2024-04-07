@@ -26,11 +26,8 @@ params:
     bottomText:
       - 'Theme by <a href="https://github.com/rhazdon">D. Atlialp</a>'
   logo:
-    logoMark: '>'
-    logoCursorDisabled: false
-    logoCursorColor: '#555'
-    logoCursorAnimate: 3s
-    logoCursorPathname: false
+    logoMark: ' '
+    logoCursorDisabled: true
 
 taxonomies:
   category: blog
@@ -41,7 +38,6 @@ languages:
   fr:
     params:
       title: HypSen
-      subtitle: Bienvenue
       keywords: 'hyper-sensibilité à la lumière'
       copyright: >-
         <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
@@ -71,8 +67,7 @@ languages:
   en:
     params:
       title: HypSen
-      subtitle: Welcome
-      keywords: ''
+      keywords: 'hyper-sensitivity to light'
       copyright: >-
         <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
         rel="noopener">CC BY-NC 4.0</a>
