@@ -1,6 +1,6 @@
 ---
 title: "Déficiences visuelles"
-slug: "../adaptation/deficiences-visuelles"
+slug: "../deficiences-visuelles"
 date: 2023-08-06T21:59:54+02:00
 draft: false
 toc: true

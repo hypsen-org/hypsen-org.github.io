@@ -1,43 +1,21 @@
 ---
-title: "Home"
+title: "Welcome"
 slug: "home"
-date: 2023-08-06
+date: 2023-09-23
 draft: false
-toc: true
+toc: false
 images:
 tags:
   - low vision
 ---
-## Introduction
-This section presents the various elements I have adapted to live almost normally with [light hyper-sensitivity](../adaptation/visual-impairments/#light-and-glare-sensitivity).
+This site is dedicated to hyper-sensitivity to light.
 
-To give you an idea of the nature and intensity of my sensitivity, and measure whether my condition is similar to yours or not, I prepared some visuals on the page describing the various forms of [visual impairment](../adaptation/visual-impairments).
+At the moment, it contains the following sections:
 
-Where possible, I include a link to the products or software I mention. I get no benefit of any kind from it. I do this only to unequivocally identify what I am talking about, in case a reader wants to know more.
+* Illustrations and specificities of various forms of visual impairment: [here](../visual-impairments)
+* How I adapted my environment (which I hope might help others): [there](../adaptation)
+* My journey since light hyper-sensitivity happened to me: [here](../about)
 
-Finally, unless otherwise stated, I myself use the references mentioned.
+I hope you'll find this site useful.
 
-## Glasses and accessories
-* [Sunglasses](vision/sunglasses)
-* [Eyeglasses](vision/eyeglasses)
-* [Hat](vision/hat)
-* [Watch](vision/watch)
-
-## Taking Notes
-* [Notebooks, slates, tablets](vision/note-taking)
-
-## Computer
-* [Hardware](vision/computer-hardware)
-* Operating System: Windows (coming soon)
-* Operating System: Mac OS] (coming soon)
-* Operating System: [Linux](vision/linux)
-* Internet browser: Firefox (coming soon)
-* Internet browser: Chrome (coming soon)
-* Google Docs (coming soon)
-
-## Phone
-* Model (coming soon)
-* Settings
-* Apps
-
-[^1]: [This page](../about) gives more context.
+ML

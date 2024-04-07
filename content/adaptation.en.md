@@ -1,5 +1,5 @@
 ---
-title: "Hyper-sensitivity to light"
+title: "Adapting your environment"
 slug: "adaptation"
 date: 2023-08-06T21:59:54+02:00
 draft: false

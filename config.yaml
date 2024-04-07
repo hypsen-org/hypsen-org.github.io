@@ -48,7 +48,7 @@ languages:
         rel="noopener">CC BY-NC 4.0</a>
       readOtherPosts: Voir les autres pages.
       logo:
-        logoHomeLink: /fr
+        logoHomeLink: /fr/accueil
         logoText: 'Accueil'
       footer:
         trademark: true
@@ -65,7 +65,7 @@ languages:
         - url: /a-propos/
           name: À propos
           weight: 20
-        - url: ../en/
+        - url: ../en/home
           name: EN
           weight: 1000
   en:
@@ -78,7 +78,7 @@ languages:
         rel="noopener">CC BY-NC 4.0</a>
       readOtherPosts: Read other posts
       logo:
-        logoHomeLink: /en
+        logoHomeLink: /en/home
         logoText: 'Home'
       footer:
         trademark: true
@@ -95,6 +95,6 @@ languages:
         - url: /about/
           name: About
           weight: 20
-        - url: ../fr/
+        - url: ../fr/accueil
           name: FR
           weight: 1000
