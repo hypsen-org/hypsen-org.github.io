@@ -56,17 +56,31 @@ On m'a alors injecté des doses militaires de corticoïdes en intra-veineuse; en
 ## J+4 ou 5 ou 6; en tous cas, c'était long.
 Du coté des bonnes nouvelles, les anti-inflammatoires permirent de stopper la dégradation de ma vue. J'ai même pu suivre la lumière quand on me le demandait et détecter qu'il y avait une affiche collée sur l'armoire à coté de mon lit, ce que personne ne m'avait demandé, mais je vous le dis quand même.
 
-Acuité visuelle: environ 1/10 et vision en niveaux de gris. Ça a l'air bof dit comme ça, mais sur le coup, c'était infiniment mieux qu'une vision limitée à un seul niveau de noir.
+Acuité visuelle: environ 1/10 et vision en niveaux de gris. Ça a l'air bof dit comme ça, mais c'était infiniment mieux qu'une vision limitée à un seul niveau de noir.
 
 ## J+10 à J+15: Vampirisme sur ordonnance.   
-J'avoue ne plus du tout me souvenir des échelles de temps. Toujours est-il qu'une fois arrivés les résultats de tous les examens, et comme les effets de la cortisone stagnaient à un niveau trop faible pour en faire le seul traitement au regard des effets secondaires, j'ai été envoyé au service de dialyse pour des échanges ~~linguistiques~~ [plasmatiques](https://fr.wikipedia.org/wiki/Plasmaph%C3%A9r%C3%A8se).
+J'avoue ne plus du tout me souvenir des échelles de temps. Toujours est-il qu'une fois arrivés les résultats de tous les examens, et comme les effets de la cortisone stagnaient à un niveau trop faible pour en faire le seul traitement en raison des effets secondaires, j'ai été envoyé au service de dialyse pour un échange ~~linguist...~~ [plasmatique](https://fr.wikipedia.org/wiki/Plasmaph%C3%A9r%C3%A8se).
 
-Concrètement, je suis resté planté entre trois et quatre heures par jour, pendant cinq jours, allongé sur un lit de dialyse à écouter Roland Garros à la télévision[^10] pendant que des individus en blouses blanches me vidaient de mon sang et le remplaçaient par celui d'inconnus présentés comme volontaires[^9], afin, certainement, d'apaiser les doutes qu'aurait pu faire naître en moi une culture cinématographique occidentale riche en hommes de mon âge et de ma nouvelle corpulence vidés eux-mêmes de leur sang à l'insu de leur plein gré [^7] [^8].
+Concrètement, je suis resté planté entre trois et quatre heures par jour, pendant cinq jours, allongé sur un lit de dialyse à écouter Roland Garros à la télévision[^10] pendant que des individus en blouses blanches me vidaient de mon sang et le remplaçaient par celui d'inconnus présentés comme volontaires[^9], afin, certainement, d'apaiser les doutes qu'aurait pu faire naître en moi une culture cinématographique occidentale où les hommes de mon âge et de ma nouvelle corpulence se font justement vidés de leur sang à l'insu de leur plein gré [^7] [^8].
 
 ## J+16 et suivants: Toujours obèse mais moins aveugle
-Lorem
+Contre toute attente, chaque vidange contribua à me rendre la vision des couleurs, une teinte à la fois.
+
+En premier il y eut le jaune, c'est-à-dire la couleur la plus totalement inutile en milieu hospitalier. Dans ma chambre, seul le rideau me séparant de mon co-détenu était vaguement jaune-orangé. Le reste de mon environnement restait obstinément gris.
+
+Ensuite revint le bleu. Pour être très précis, tous les bleus revinrent en même temps, mais perçus avec la même teinte. Concrètement, imaginez-vous face à la mer (bleu turquoise). Au loin, le ciel (bleu ciel). Dans votre main, une serviette de plage (bleu marine). Et bien à ce stade de ma guérison, je percevais tous ces bleus sous la même tête bleue relativement foncée.
+
+Quant aux verts et aux rouges, je vais vous décevoir: ces couleurs ne revinrent qu'une fois chez moi.
+
+Acuité visuelle: environ 3/10. Officiellement, je n'étais donc plus malvoyant puisque seule l'acuité visuelle détermine le statut d'aveugle (acuité inférieure à 1/10) ou de malvoyant (acuité entre 1/10 et 3/10)[^11].
+
+Indice de masse corporelle: très supérieur à ce que l'estime de soi me permet d'admettre sur un site public.
 
 ## J+21: Sortie de l'hôpital
+
+À partir d'ici, le jour S correspond à ma sortie de l'hôpital.
+
+## S+1 ou S+2: 
 
 ## Fin de chapitre
 Alors que je n'y croyais plus, j'ai pu de nouveau lire un livre imprimé[^2] mi-décembre 2023, soit six mois après la fin de mon hospitalisation.
@@ -83,3 +97,4 @@ Alors que je n'y croyais plus, j'ai pu de nouveau lire un livre imprimé[^2] mi-
 [^8]: Évitez également Dracula de Francis Ford Coppola. De toutes façons, vous pourrez toujours écouter l'histoire originale de Bram Stoker en livre audio si nécessaire.
 [^9]: Un an après les évènements, je ne comprends toujours pas comment le corps médical peut affirmer qu'un donneur est à la fois anonyme et volontaire. En effet, si le donneur est anonyme, comment vérifier auprès de lui aujourd'hui qu'il était volontaire hier ? Tout cela est bien mystérieux.
 [^10]: Regarder Roland Garros à la télé, ça peut s'envisager. Écouter Roland Garros à la télé, en revanche, quand on est aveugle, c'est à la limite du masochisme. Si je ne devais retenir qu'un moment de détresse parmi ceux que j'ai traversés depuis la perte de la vision, ce serait l'écoute d'un match de tennis télévisé. Les commentateurs supposent, à raison, que les téléspectateurs voient les échanges, les tableaux des scores et les diverses statistiques incrustées à l'écran. Ils se contentent donc de bredouiller des banalités comme "Joli point" ici et "balle de break" là, sans préciser qui est sur le point de breaké qui. J'ai donc passé une petite vingtaine d'heure étalées sur cinq jours, à écouter des frappes de balle, des commentaires indigents et des applaudissements polis sans savoir qui jouait ou qui gagnait.
+[^11]: Source: https://fr.wikipedia.org/wiki/Malvoyance. Je ne comprends pas pourquoi l'étendue du champ visuel et, dans une moindre mesure, la sensibilité à la lumière et au contraste n'entrent pas en compte dans la définition de la malvoyance.
