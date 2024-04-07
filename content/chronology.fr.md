@@ -8,13 +8,16 @@ images:
 tags:
   - basse vision
 ---
-Ce qui suit décrit les évènements qui se sont déroulés depuis la perte totale de ma vision jusqu'à aujourd'hui[^3].
 
-J'ai eu beaucoup de chance de pouvoir récupérer trois des cinq facultés qui constituent la vision. Je le dois en grande partie à mon épouse, mes enfants et les équipes médicales du CHUV qui m'ont remarquablement accompagné pendant sept mois éprouvants.
+*Dernière mise à jour: avril 2024*
 
-J'espère que la gratitude, l'optimisme et la légèreté qui, grâce à eux, ne m'ont jamais quitté transparaissent dans le texte.
+Cette page décrit les évènements qui se sont déroulés depuis la perte totale de vision qui m'a affecté en mai 2023, jusqu'à la période de récupération qui continue aujourd'hui.
 
-## Jour J-1: De retour 
+J'ai eu beaucoup de chance de pouvoir récupérer [trois des cinq facultés qui constituent la vision](../a-propos). Je le dois en grande partie à mon épouse, mes enfants et les équipes médicales du CHUV qui m'ont remarquablement accompagné pendant sept mois éprouvants.
+
+J'espère que transparaissent dans le texte l'optimisme et la légèreté dont m'ont constamment pourvu ces merveilleuses personnes.
+
+## Jour J-1: De retour de l'hôpital
 En 2023, mon fils m'a gracieusement transmis une pneumonie qu'il traversait avec pour seuls symptômes une légère toux et l'insouciance caractéristique des éponges à microbes en culottes courtes. Si, heureusement pour lui, il a vaincu sa propre infection sans aucune complication, ma pneumonie, elle, a été bien plus coriace, m'envoyant même une petite semaine à l'hôpital.
 
 De retour chez moi, j'ai pu continuer le livre de poche que j'avais abandonné pendant mon hospitalisation, puis je me suis couché normalement. Mais le lendemain, au réveil, j'étais presque aveugle.
@@ -64,7 +67,6 @@ Alors que je n'y croyais plus, j'ai pu de nouveau lire un livre imprimé[^2] mi-
 
 [^1]: Les équipes du [CHUV](https://fr.wikipedia.org/wiki/Centre_hospitalier_universitaire_vaudois) de Lausanne.
 [^2]: Livre "physique" au texte noir sur papier blanc, comme un livre de poche par exemple; par opposition à un livre électronique lisible en mode sombre sur ma liseuse.
-[^3]: Dernière mise-à-jour: le 6 avril 2024
 [^4]: Cette expérience m'a permis d'établir une échelle de sophistication des examens médicaux dont je ne suis pas peu fier: Au firmament de la prouesse technologique se trouvent l'IRM et les autres examens fondés sur les lois de l'électromagnétisme, chef d'oeuvre du génie humain. Au milieu de l'échelle, j'ai placé la prise de sang, la ponction lombaire et les autres examens qui nécessitent à la fois une aiguille et des analyses biologiques. Dans les bas fonds de l'échelle, enfin, mais toujours utilisés avec une fréquence sans rapport avec la rusticité du procédé, se trouvent les coups de marteau dans les rotules. Ce qui vous vaut un carton rouge sur un terrain de football vous couvre de gloire et d'une blouse blanche en milieu hospitalier. Allez comprendre.
 [^5]: Le suisse d'adoption que je suis reconnaît désormais la beauté de la [lutte suisse](https://fr.wikipedia.org/wiki/Lutte_suisse) et la supériorité de la [raclette suisse](https://fr.wikipedia.org/wiki/Raclette) sur toute autre forme d'ingestion de fromage fondu.
 [^6]: Maux qui, s'ils sont combinés, affectent moins gravement l'informaticien que le biathlète, certes, mais tout de même.
