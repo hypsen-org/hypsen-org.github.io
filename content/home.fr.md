@@ -10,10 +10,10 @@ tags:
 ---
 Ce site traite de l'hyper-sensibilité à la lumière sous les angles suivants:
 
-* Illustrations et spécificité parmi les déficiences visuelles: [ici](../deficiences-visuelles)
-* Adaptations utilisées (dans mon cas personnel): [là](../adaptation)
-* Mon parcours personnel depuis l'apparition de l'hyper-sensibilité: [ici](../a-propos)
+* Illustrations et spécificité des déficiences visuelles: [ici](../deficiences-visuelles)
+* Mon parcours depuis l'apparition de l'hyper-sensibilité: [ici](../a-propos)
+* Les adaptations que j'ai mises en place: [là](../adaptation)
 
-Si vous ou l'un(e) de vos proches est affacté(e) par cette hyper-sensibilité, j'espère que vous trouverez ce site utile.
+J'espère que vous trouverez ce site utile.
 
 ML

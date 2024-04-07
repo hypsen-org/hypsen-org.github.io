@@ -13,8 +13,8 @@ This site is dedicated to hyper-sensitivity to light.
 At the moment, it contains the following sections:
 
 * Illustrations and specificities of various forms of visual impairment: [here](../visual-impairments)
-* How I adapted my environment (which I hope might help others): [there](../adaptation)
-* My journey since light hyper-sensitivity happened to me: [here](../about)
+* My journey since I became hyper-sensitive to light: [here](../about)
+* How I adapted my environment: [there](../adaptation)
 
 I hope you'll find this site useful.
 
