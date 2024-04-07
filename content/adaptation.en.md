@@ -1,7 +1,7 @@
 ---
-title: "Home"
-slug: "home"
-date: 2023-08-06
+title: "Hyper-sensitivity to light"
+slug: "adaptation"
+date: 2023-08-06T21:59:54+02:00
 draft: false
 toc: true
 images:

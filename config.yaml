@@ -8,7 +8,7 @@ paginate: 100
 enableRobotsTXT: true
 
 author:
-  name: Mathieu Lindemann
+  name: ML
 
 params:
   dateform: 'Jan 2, 2006'
@@ -17,7 +17,7 @@ params:
   dateformNumTime: '2006-01-02 15:04'
   enableThemeToggle: true
   enableSharingButtons: true
-  homeSubtitle: <div>This site covers hyper-sensitivity to light. <br/> <a href="/en/adaptation">Browse in English</a></div>&#x2022;<div>Ce site traite de l'hyper-sensibilité à la lumière.<br/><a href="/fr/adaptation">Naviguer en Français</a></div>
+  homeSubtitle: <div>This site covers hyper-sensitivity to light. <br/> <a href="/en/home">Browse in English</a></div>&#x2022;<div>Ce site traite de l'hyper-sensibilité à la lumière.<br/><a href="/fr/accueil">Naviguer en Français</a></div>
   footer:
     trademark: true
     rss: true
