@@ -13,9 +13,9 @@ tags:
 
 Cette page décrit les évènements qui se sont déroulés depuis la perte totale de vision qui m'a affecté en mai 2023, jusqu'à la période de récupération qui continue aujourd'hui.
 
-J'ai eu beaucoup de chance de pouvoir récupérer [trois des cinq facultés qui constituent la vision](../a-propos). Je le dois en grande partie à mon épouse, mes enfants et les équipes médicales du CHUV qui m'ont remarquablement accompagné pendant sept mois éprouvants.
+J'ai eu beaucoup de chance de pouvoir récupérer [trois des cinq facultés qui constituent la vision](../a-propos). Je le dois en grande partie à mon épouse, mes enfants et les équipes médicales du CHUV qui m'ont remarquablement accompagné pendant cette épreuve.
 
-J'espère que transparaissent dans le texte l'optimisme et la légèreté dont m'ont constamment pourvu ces merveilleuses personnes.
+J'espère que transparaitront dans le texte ci-dessous l'optimisme et la légèreté dont m'ont constamment pourvu ces personnes remarquables.
 
 ## Jour J-1: De retour de l'hôpital
 En 2023, mon fils m'a gracieusement transmis une pneumonie qu'il traversait avec pour seuls symptômes une légère toux et l'insouciance caractéristique des éponges à microbes en culottes courtes. Si, heureusement pour lui, il a vaincu sa propre infection sans aucune complication, ma pneumonie, elle, a été bien plus coriace, m'envoyant même une petite semaine à l'hôpital.
