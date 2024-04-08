@@ -85,9 +85,9 @@ languages:
     menu:
       main:
         - url: /adaptation
-          name: How to adapt
+          name: Adaptations
           weight: 10
-        - url: /about/
+        - url: /about
           name: About
           weight: 20
         - url: ../fr/accueil
