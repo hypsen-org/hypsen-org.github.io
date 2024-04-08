@@ -36,6 +36,7 @@ taxonomies:
 
 languages:
   fr:
+    languageName: Français
     params:
       title: HypSen
       keywords: 'hyper-sensibilité à la lumière'
@@ -55,16 +56,17 @@ languages:
           - 'Thème inspiré de <a href="https://github.com/rhazdon">DA</a>'
     menu:
       main:
-        - url: /adaptation
+        - url: /fr/adaptation
           name: Adaptations
           weight: 10
-        - url: /a-propos/
+        - url: /fr/a-propos
           name: À propos
           weight: 20
         - url: ../en/home
           name: EN
           weight: 1000
   en:
+    languageName: English
     params:
       title: HypSen
       keywords: 'hyper-sensitivity to light'
@@ -84,10 +86,10 @@ languages:
           - 'Theme adapted from <a href="https://github.com/rhazdon">DA</a>'
     menu:
       main:
-        - url: /adaptation
+        - url: /en/adaptation
           name: Adaptations
           weight: 10
-        - url: /about
+        - url: /en/about
           name: About
           weight: 20
         - url: ../fr/accueil
