@@ -1,8 +1,8 @@
 ---
 title: "À propos"
-slug: "a-propos"
+slug: "../a-propos"
 date: 2023-09-23
-draft: true
+draft: false
 toc: false
 images:
 tags:
