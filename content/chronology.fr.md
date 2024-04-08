@@ -25,7 +25,7 @@ De retour chez moi, j'ai pu continuer le livre de poche que j'avais abandonné p
 ## Jour J au matin: Pas de panique
 Ici, "presque aveugle" signifie que ma chambre était devenue une collection de grosses formes floues: les étagères étaient de grands rectangles un peu plus foncés que les murs et le réveil situé à 20cm de mon oreiller n'était plus qu'un cube sombre. Je ne distinguais ni les objets posés sur les étagères, ni les informations sur l'écran du réveil. Mais je pouvais tout de même m'orienter dans l'espace.
 
-Ma première réaction a été de me dire: "C'est donc ça une [migraine ophtalmique](https://www.ophtalmique.ch/hopital/maladies-de-la-vue/migraine-ophtalmique/)". J'avais entendu parler de ce type de migraines pendant mes études, par l'intermédiaire d'un ami qui en souffrait régulièrement. Je n'en connaissais pas exactement les symptômes, mais comme j'étais sorti de l'hôpital la veille, après une semaine qui m'avais méchamment secoué, j'avais trouvé là un suspect satisfaisant.
+Ma première réaction a été de me dire: "C'est donc ça une [migraine ophtalmique](https://www.ophtalmique.ch/hopital/maladies-de-la-vue/migraine-ophtalmique/)". J'avais entendu parler de ce type de migraines pendant mes études, par l'intermédiaire d'un ami qui en souffrait régulièrement. Je n'en connaissais pas exactement les symptômes, mais comme j'étais sorti de l'hôpital la veille, après une semaine qui m'avait méchamment secoué, j'avais trouvé là un suspect satisfaisant.
 
 J'ai donc prévenu mon épouse avec la sérénité de l'imbécile qui, n'ayant aucune formation médicale, s'auto-diagnostique sur la base des souvenirs périmés d'une maladie qu'il n'a jamais eue et sous-estime totalement la gravité de la situation:
 
