@@ -56,10 +56,10 @@ languages:
           - 'Thème inspiré de <a href="https://github.com/rhazdon">DA</a>'
     menu:
       main:
-        - url: /fr/adaptation
+        - url: fr/adaptation
           name: Adaptations
           weight: 10
-        - url: /fr/a-propos
+        - url: fr/a-propos
           name: À propos
           weight: 20
         - url: ../en/home
@@ -86,10 +86,10 @@ languages:
           - 'Theme adapted from <a href="https://github.com/rhazdon">DA</a>'
     menu:
       main:
-        - url: /en/adaptation
+        - url: en/adaptation
           name: Adaptations
           weight: 10
-        - url: /en/about
+        - url: en/about
           name: About
           weight: 20
         - url: ../fr/accueil

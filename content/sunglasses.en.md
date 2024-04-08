@@ -1,6 +1,6 @@
 ---
 title: "Sunglasses"
-slug: "../vision/sunglasses"
+slug: "../adaptation/sunglasses"
 date: 2023-08-06T21:59:54+02:00
 draft: false
 toc: true

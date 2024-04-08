@@ -18,19 +18,19 @@ Where possible, I include a link to the products or software I mention. I get no
 Finally, unless otherwise stated, I myself use the references mentioned.
 
 ## Glasses and accessories
-* [Sunglasses](vision/sunglasses)
-* [Eyeglasses](vision/eyeglasses)
-* [Hat](vision/hat)
-* [Watch](vision/watch)
+* [Sunglasses](sunglasses)
+* [Eyeglasses](eyeglasses)
+* [Hat](hat)
+* [Watch](watch)
 
 ## Taking Notes
-* [Notebooks, slates, tablets](vision/note-taking)
+* [Notebooks, slates, tablets](note-taking)
 
 ## Computer
-* [Hardware](vision/computer-hardware)
+* [Hardware](computer-hardware)
 * Operating System: Windows (coming soon)
 * Operating System: Mac OS] (coming soon)
-* Operating System: [Linux](vision/linux)
+* Operating System: [Linux](linux)
 * Internet browser: Firefox (coming soon)
 * Internet browser: Chrome (coming soon)
 * Google Docs (coming soon)
