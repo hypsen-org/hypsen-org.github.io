@@ -20,6 +20,6 @@ Ce n'est pas le cas de Gmail, qui est donc devenu inutilisable pour moi.
 En conséquence, j'ai migré vers les outils de Microsoft, après presque 20 ans de fidélité à Google.
 
 ## Configuration
-Pour basculer l'affichage en mode sombre, il suffit de cliquer sur `Paramètres` (l'icône en forme d'engrenage en haut à droite) > `Général` > `Apparence` > `Mode sombre` > puis `Sombre` ou `Paramètres Système`.
+Pour basculer l'affichage en mode sombre, il suffit de cliquer sur `Paramètres` (l'icône en forme d'engrenage en haut à droite) > `Général` > `Apparence` > `Mode sombre` > puis choisir `Sombre` (ou `Paramètres Système`, s'ils sont eux-mêmes réglés sur sombre).
 
 ![Configurer Outlook sur le Web](/vision/outlook-webmail-settings-fr.png)
