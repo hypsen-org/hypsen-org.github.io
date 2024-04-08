@@ -13,7 +13,7 @@ Je suis devenu [hyper-sensible à la lumière](../adaptation/deficiences-visuell
 * le **champ visuel**,
 * la **perception des couleurs**, en commençant par le jaune et le bleu et laissant donc le rouge revenir en dernier, ce qui n'est pas sans ironie pour un résident suisse.
 
-Aujourd'hui[^2], seules ma **sensibilité à la lumière** et ma **sensibilité aux contrastes faibles** sont toujours déficientes. Concrètement, je suis beaucoup plus facilement ébloui qu'auparavant par les objets clairs (papier blanc, immeubles gris, etc.) ou aux couleurs saturées (les néons des magasins, par exemple).
+Aujourd'hui[^2], seules ma **sensibilité à la lumière** et ma **sensibilité aux contrastes faibles** sont toujours déficientes. Concrètement, je suis beaucoup plus facilement ébloui qu'auparavant par les objets clairs (papier blanc, immeubles gris, etc.) et les couleurs saturées (les néons des magasins, par exemple).
 
 ## Chronologie
 Une chronologie détaillée des évènements est disponible [ici](../chronologie).
