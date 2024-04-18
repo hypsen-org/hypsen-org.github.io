@@ -11,7 +11,7 @@ tags:
 ## Introduction
 Cette section présente les différents éléments que j'ai adaptés pour vivre presque normalement avec une hyper-sensibilité à la lumière.
 
-Pour vous représenter la nature et l'intensité de ma sensibilité, j'ai réalisé des illustrations visibles sur la [page dédiée aux troubles de la vision](deficiences-visuelles/#sensibilité-à-la-lumière-et-à-léblouissement).
+Pour vous représenter la nature et l'intensité de ma sensibilité, j'ai réalisé des illustrations visibles sur la [page dédiée aux troubles de la vision](../deficiences-visuelles/#sensibilité-à-la-lumière-et-à-léblouissement).
 
 Lorsque cela est possible, j'inclus un lien vers les produits ou logiciels que je mentionne. Je n'en retire aucun bénéfice d'aucune sorte. Je le fais uniquement pour aider à identifier sans équivoque les produits ou logiciels en question.
 
