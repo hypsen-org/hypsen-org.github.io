@@ -9,9 +9,9 @@ tags:
   - low vision
 ---
 ## Introduction
-This section presents the various elements I have adapted to live almost normally with [light hyper-sensitivity](../adaptation/visual-impairments/#light-and-glare-sensitivity).
+This section presents the various elements I have adapted to live almost normally with [light hyper-sensitivity](../visual-impairments#light-and-glare-sensitivity).
 
-To give you an idea of the nature and intensity of my sensitivity, and measure whether my condition is similar to yours or not, I prepared some visuals on the page describing the various forms of [visual impairment](../adaptation/visual-impairments).
+To give you an idea of the nature and intensity of my sensitivity, and measure whether my condition is similar to yours or not, I prepared some visuals on the page describing the various forms of [visual impairment](../visual-impairments).
 
 Where possible, I include a link to the products or software I mention. I get no benefit of any kind from it. I do this only to unequivocally identify what I am talking about, in case a reader wants to know more.
 
