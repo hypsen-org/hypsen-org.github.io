@@ -45,6 +45,8 @@ languages:
         rel="noopener">CC BY-NC 4.0</a>
       readOtherPosts: Voir les autres pages.
       logo:
+        logoMark: ' '
+        logoCursorDisabled: true
         logoHomeLink: /fr/accueil
         logoText: 'Accueil'
       footer:
@@ -75,6 +77,8 @@ languages:
         rel="noopener">CC BY-NC 4.0</a>
       readOtherPosts: Read other posts
       logo:
+        logoMark: ' '
+        logoCursorDisabled: true
         logoHomeLink: /en/home
         logoText: 'Home'
       footer:
