@@ -1,6 +1,6 @@
 ---
 title: "Visual Impairments"
-slug: "../visual-impairments"
+slug: "visual-impairments"
 date: 2024-17-06
 draft: false
 toc: true

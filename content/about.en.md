@@ -1,6 +1,6 @@
 ---
 title: "About"
-slug: "../about"
+slug: "about"
 date: 2023-09-23
 draft: false
 toc: false
