@@ -1,6 +1,6 @@
 ---
 title: "Outlook"
-slug: "../adaptation/outlook"
+slug: "adaptation/outlook"
 date: 2024-03-08
 draft: false
 toc: true

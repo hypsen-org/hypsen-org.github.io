@@ -1,7 +1,7 @@
 ---
 title: "Montre"
-slug: "../adaptation/montre"
-date: 2023-08-06T21:59:54+02:00
+slug: "adaptation/montre"
+date: 2023-08-06
 draft: false
 toc: false
 images:

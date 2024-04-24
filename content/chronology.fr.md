@@ -1,6 +1,6 @@
 ---
 title: "Chronologie"
-slug: "../chronologie"
+slug: "chronologie"
 date: 2023-09-23
 draft: true
 toc: false

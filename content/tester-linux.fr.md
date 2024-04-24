@@ -1,7 +1,7 @@
 ---
 title: "Essayer Linux"
-slug: "../adaptation/essayer-linux"
-date: 2023-08-06T21:59:54+02:00
+slug: "adaptation/essayer-linux"
+date: 2023-08-06
 draft: false
 toc: true
 images:

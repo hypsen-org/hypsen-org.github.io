@@ -1,7 +1,7 @@
 ---
 title: "Lunettes de soleil basse vision"
-slug: "../adaptation/lunettes-de-soleil"
-date: 2023-08-06T21:59:54+02:00
+slug: "adaptation/lunettes-de-soleil"
+date: 2023-08-06
 draft: false
 toc: true
 images:
