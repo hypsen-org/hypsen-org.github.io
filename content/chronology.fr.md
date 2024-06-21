@@ -105,7 +105,7 @@ Et à part ça ?
 
 Acuité visuelle: environ 3/10. Je n'étais donc plus ni aveugle ni même malvoyant puisque seule l'acuité visuelle détermine le degré du handicap[^11].
 
-Indice de masse corporelle: très supérieur à ce que la décence et mon épouse me permettent de révéler publiquement mais très inférieur à ce qui aurait pu me valoir de découvrir le Centre de l'obésité du CHUV[^1].
+Indice de masse corporelle: très supérieur à ce que la décence et mon épouse me permettent de révéler publiquement mais très inférieur à ce qui aurait pu me valoir une excursion au Centre de l'obésité du CHUV[^1].
 
 Après quelques jours sous observation, je pus donc finalement quitter l'hôpital, les bras levés en signe de triomphe, traversant le brouhaha joyeux d'une foule admirative venue célébrer mon retour à la vue et honorer la science médicale porteuse d'espoirs et de promesses. Ou, plus probablement, venue faire tout autre chose; c'est difficile à dire a posteriori -- je voyais flou et je n'entendais pas bien.
 
