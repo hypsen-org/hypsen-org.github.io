@@ -112,7 +112,7 @@ Après quelques jours sous observation, je pus donc finalement quitter l'hôpita
 ## J+21: Sortie de l'hôpital
 
 ![Renaissance du monde](/vision/sixtine-blue.png)
-*État de ma vision à la sortie de l'hôpital*
+*État de ma vision à la sortie de l'hôpital.*
 
 À suivre...
 
