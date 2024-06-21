@@ -2,7 +2,7 @@
 title: "Chronologie"
 slug: "chronologie"
 date: 2023-09-23
-draft: true
+draft: false
 toc: false
 images:
 tags:
@@ -103,19 +103,14 @@ Acuité visuelle: environ 3/10. Je n'étais donc plus ni aveugle ni même malvoy
 
 Indice de masse corporelle: très supérieur à ce que la décence et mon épouse me permettent de révéler publiquement mais très inférieur à ce qui aurait pu me valoir de découvrir le Centre de l'obésité du CHUV[^1].
 
-Après quelques jours sous observation, je pus donc finalement quitter l'hôpital, les bras levés en signe de triomphe, traversant le brouhaha joyeux d'une foule admirative venue célébrer mon rétablissement, mon retour à la vue et honorer la science médicale porteuse d'espoirs et de promesses. Ou, plus probablement, venue faire tout autre chose; c'est difficile à dire a posteriori -- je voyais très flou et les couloirs de l'hôpital sont étonnamment bruyants.
+Après quelques jours sous observation, je pus donc finalement quitter l'hôpital, les bras levés en signe de triomphe, traversant le brouhaha joyeux d'une foule admirative venue célébrer mon rétablissement, mon retour à la vue et honorer la science médicale porteuse d'espoirs et de promesses. Ou, plus probablement, venue faire tout autre chose; c'est difficile à dire a posteriori -- je voyais flou et n'entendais pas bien.
 
 ## J+21: Sortie de l'hôpital
 
 ![Renaissance du monde](/vision/sixtine-blue.png)
-*Résultat des échanges plasmatiques (Vue d'artiste)*
+*État de ma vision à la sortie de l'hôpital*
 
-À partir d'ici, le jour S correspond à ma sortie de l'hôpital.
-
-## S+1 ou S+2: 
-
-## Fin de chapitre
-Alors que je n'y croyais plus, j'ai pu de nouveau lire un livre imprimé[^2] mi-décembre 2023, soit six mois après la fin de mon hospitalisation.
+À suivre...
 
 ## Retour
 [Cliquez ici](..) pour retourner à l’index.
