@@ -15,7 +15,7 @@ Cette page décrit les évènements qui se sont déroulés depuis la perte total
 
 J'ai eu beaucoup de chance de pouvoir récupérer [trois des cinq facultés qui constituent la vision](../a-propos). Je le dois en grande partie à ma famille et aux équipes médicales du CHUV qui m'ont remarquablement accompagné pendant cette épreuve.
 
-J'espère que transparaitront dans le texte ci-dessous l'optimisme, la bienveillance et, osons le mot, la légèreté qui m'ont aidé à rester à flot.
+J'espère que transparaitront ci-dessous l'optimisme, la bienveillance et, osons le mot, la légèreté qui m'ont aidé à rester à flot.
 
 ## Jour J-1: De retour de l'hôpital
 En 2023, mon fils m'a gracieusement transmis une pneumonie qu'il traversait avec pour seuls symptômes une légère toux et l'insouciance caractéristique des éponges à microbes en culottes courtes. Si, heureusement pour lui, il a vaincu sa propre infection sans aucune complication, ma pneumonie, elle, a été bien plus coriace, m'envoyant même une petite semaine à l'hôpital.
