@@ -23,7 +23,7 @@ En 2023, mon fils m'a gracieusement transmis une pneumonie qu'il traversait avec
 De retour chez moi, j'ai pu passer une fin de journée tranquille puis me coucher normalement. Mais le lendemain, au réveil, j'étais presque aveugle.
 
 ## Jour J au matin: Pas de panique
-Ma chambre n'était plus qu'une superposition de formes éblouissantes et floues: les étagères se résumaient à de grands rectangles et se détachaient à peine des murs, le réveil de mon chever était devenu un cube à peine distinct. Malgré tout, j'arrivais à m'orienter dans l'espace à la manière, je suppose, de Vincent Van Gogh un lendemain de cuite.
+Ma chambre n'était plus qu'une superposition de formes éblouissantes et floues: les étagères se résumaient à de grands rectangles et se détachaient à peine des murs, le réveil de mon chevet était devenu un cube à peine distinct. Malgré tout, j'arrivais à m'orienter dans l'espace à la manière, je suppose, de Vincent Van Gogh un lendemain de cuite.
 
 ![Réveil presque aveugle. Van Gogh](/vision/van-gogh-painting.png)
 *À gauche: Chambre de Van Gogh à Arles (1889). À droite: ma chambre (2023)*
