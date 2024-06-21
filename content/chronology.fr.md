@@ -55,7 +55,7 @@ Par bonheur, l'urgentiste ne reste jamais ni perplexe ni inquiétant très longt
 Après cette première nuit intense, je me souviens seulement qu'au matin mon acuité visuelle était inférieure à 1/10. Autrement dit, j'étais légalement aveugle.
 
 ## J+1 et suivants: Ça va piquer
-Heureusement, les formations médicales produisent depuis longtemps des médecins moins idiots que leurs patients. Sur la base des premiers examens, les équipes qui m'encadraient eurent donc le bon goût de soupçonner une inflammation du système nerveux central et du nerf optique en particulier.
+Heureusement, il est désormais prouvé que les formations médicales produisent des médecins moins idiots que leurs patients. Sur la base des premiers examens, les équipes qui m'encadraient eurent donc le bon goût de soupçonner une inflammation du système nerveux central et du nerf optique en particulier.
 
 Je fus alors admis au service de neurologie où l'on m'injecta des doses équines de corticoïdes en intra-veineuse; en conséquence de quoi, je me mis à dévorer mes repas avec l'appétit d'un lutteur suisse un soir de raclette; en conséquence de quoi (bis), je m'imaginai devenir aveugle et obèse dans la même semaine[^6].
 
