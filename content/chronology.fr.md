@@ -13,7 +13,7 @@ tags:
 
 Cette page décrit les évènements qui se sont déroulés depuis la perte totale de vision qui m'a affecté en mai 2023, jusqu'à la période de récupération qui continue aujourd'hui.
 
-J'ai eu beaucoup de chance de pouvoir récupérer [trois des cinq facultés qui constituent la vision](../a-propos). Je le dois en grande partie à mon épouse, mes enfants et les équipes médicales du CHUV qui m'ont remarquablement accompagné pendant cette épreuve.
+J'ai eu beaucoup de chance de pouvoir récupérer [trois des cinq facultés qui constituent la vision](../a-propos). Je le dois en grande partie à ma famille et aux équipes médicales du CHUV qui m'ont remarquablement accompagné pendant cette épreuve.
 
 J'espère que transparaitront dans le texte ci-dessous l'optimisme, la bienveillance et, osons le mot, la légèreté qui m'ont aidé à rester à flot.
 
