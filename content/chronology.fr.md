@@ -92,7 +92,11 @@ En premier il y eut le jaune, c'est-à-dire la couleur la plus totalement inutil
 ![Renaissance du monde](/vision/sixtine-yellow.png)
 *Résultat des premiers échanges plasmatiques (Vue d'artiste)*
 
-Ensuite revint le bleu. Ou plutôt, *les* bleus, car tous les bleus revinrent en même temps, mais perçus avec la même teinte. Concrètement, imaginez-vous en Grèce, à Santorin. À vos pieds, la mer *bleu marine*. Au loin, le ciel *bleu ciel*. Et tout autour de vous, une magnifique canopée de toits *bleu roi cycladique* -- qui, vous le savez certainement, est obtenu par le subtil mélange d'un bleu vif et d'un soupçon de noir[^13]. Et bien à ce stade de ma guérison, je percevais toutes ces variations sous la même teinte criarde et saturée -- et floue bien sûr, ça, ça ne changeait pas.
+Ensuite revint le bleu. Ou plutôt, *les* bleus, car tous les bleus revinrent en même temps, mais perçus avec la même teinte.
+
+Laissez-moi vous expliquer.
+
+Imaginez-vous en Grèce, à Santorin. À vos pieds, la mer *bleu marine*. Au loin, le ciel *bleu ciel*. Et tout autour de vous, une magnifique canopée de toits *bleu roi cycladique* -- qui, vous le savez certainement, est obtenu par le subtil mélange d'un bleu vif et d'un soupçon de noir[^13]. Et bien à ce stade de ma guérison, je percevais toutes ces variations sous la même teinte criarde et saturée -- et floue bien sûr, ça, ça ne changeait pas.
 
 ![Renaissance du monde](/vision/santorin.png)
 *Santorin. Gauche: vision normale. Droite, vision floue saturée (il faut aimer le bleu).*
