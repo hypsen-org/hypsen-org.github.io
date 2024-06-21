@@ -37,7 +37,7 @@ J'ai donc prévenu mon épouse avec la sérénité de l'imbécile qui, n'ayant a
 ## Jour J vers midi: Quelle lumière ?
 L'accueil aux urgences m'a ramené à la raison en deux étapes.
 
-Premièrement, ma vue s'était rapidement dégradée et même pour un benêt médical de mon niveau, mes symptômes ne correspondaient pas du tout à une migraine, ophtalmique ou non.
+Premièrement, ma vue s'était rapidement dégradée et même pour un benêt médical de mon niveau, mes symptômes ne correspondaient plus du tout à une migraine, ophtalmique ou non.
 
 Par ailleurs, les médecins urgentistes n'aimèrent pas du tout notre premier échange:
 
