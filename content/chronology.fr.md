@@ -11,11 +11,11 @@ tags:
 
 *Dernière mise à jour: avril 2024*
 
-Cette page décrit les évènements qui se sont déroulés depuis la perte totale de vision qui m'a affecté en mai 2023, jusqu'à la période de récupération qui continue aujourd'hui.
+Cette page décrit de manière romancée les évènements qui se sont déroulés depuis la perte totale de vision qui m'a affecté en mai 2023, jusqu'aux progrès les plus récents.
 
 J'ai eu beaucoup de chance de pouvoir récupérer [trois des cinq facultés qui constituent la vision](../a-propos). Je le dois en grande partie à ma famille et aux équipes médicales du CHUV qui m'ont remarquablement accompagné pendant cette épreuve.
 
-J'espère que transparaitront ci-dessous l'optimisme, la bienveillance et, osons le mot, la légèreté qui m'ont aidé à rester à flot.
+J'espère que transparaitront ci-dessous leur optimisme, leur bienveillance et, osons le mot, la légèreté qui m'ont aidé à rester positif.
 
 ## Jour J-1: De retour de l'hôpital
 En 2023, mon fils m'a gracieusement transmis une pneumonie qu'il traversait avec pour seuls symptômes une légère toux et l'insouciance caractéristique des éponges à microbes en culottes courtes. Si, heureusement pour lui, il a vaincu sa propre infection sans aucune complication, ma pneumonie, elle, a été bien plus coriace, m'envoyant même une petite semaine à l'hôpital.
@@ -47,7 +47,7 @@ Par ailleurs, les médecins urgentistes n'aimèrent pas du tout notre premier é
 
 S'en suivit un long silence perplexe et inquiétant.
 
-Par bonheur, l'urgentiste ne reste jamais ni perplexe ni inquiétant très longtemps. J'ai donc rapidement été envoyé passer toutes sortes d'examens, du plus barbare au plus sophistiqué[^4].
+Par bonheur, l'urgentiste ne reste jamais ni perplexe ni inquiétant très longtemps. J'ai donc rapidement été envoyé passer toutes sortes d'examens, du plus barbare au plus sophistiqué[^1].
 
 ![Service des Urgences du CHUV. Vue d'artiste.](/vision/star-wars-medical-bot.jpg)
 *Service d'imagerie du CHUV (Vue d'artiste)*
@@ -57,7 +57,7 @@ Après cette première nuit intense, je me souviens seulement qu'au matin mon ac
 ## J+1 et suivants: Ça va piquer
 Heureusement, il est désormais prouvé que les formations médicales produisent des médecins moins idiots que leurs patients. Sur la base des premiers examens, les équipes qui m'encadraient eurent donc le bon goût de soupçonner une inflammation du système nerveux central et du nerf optique.
 
-Je fus alors admis au service de neurologie où l'on m'injecta des doses équines de corticoïdes en intra-veineuse; en conséquence de quoi, je me mis à dévorer mes repas avec l'appétit d'un lutteur suisse un soir de raclette; en conséquence de quoi (bis), je m'imaginai devenir aveugle et obèse dans la même semaine[^6].
+Je fus alors admis au service de neurologie où l'on m'injecta des doses équines de corticoïdes en intra-veineuse; en conséquence de quoi, je me mis à dévorer mes repas avec l'appétit d'un lutteur suisse un soir de raclette; en conséquence de quoi (bis), je m'imaginai devenir aveugle et obèse dans la même semaine[^2].
 
 ![Piqûre de cheval](/vision/piqure-cheval-2.jpg)
 *Service de neurologie du CHUV (Vue d'artiste)*
@@ -73,17 +73,14 @@ Acuité visuelle: environ 1/10 et vision en niveaux de gris. Ça a l'air bof dit
 ## J+10 à J+15: "Plasma is people"
 J'avoue ne plus du tout me souvenir des échelles de temps. Toujours est-il qu'une fois arrivés les résultats des derniers examens, et comme les effets de la cortisone stagnaient à un niveau trop faible pour en faire le seul traitement en raison des effets secondaires, on m'envoya au service de dialyse pour un échange ~~linguistique~~ [plasmatique](https://fr.wikipedia.org/wiki/Plasmaph%C3%A9r%C3%A8se).
 
-<!-- ![Plasma is people](/vision/soylent-green-factory.png)
-*Service de dialyse du CHUV (Vue d'artiste)* -->
-
 À ce point là du récit, les médecins faisaient l'hypothèse que mon système immunitaire s'était emballé en combattant la pneumonie et attaquait le système nerveux central: cerveau, nerf optique, moelle épinière. Pour mettre fin à ce sabotage auto-immune, il fallait donc purger mes veines des anticorps fous qui y grouillaient.
 
-Concrètement, on me laissa allongé entre trois et quatre heures par jour, cinq jours durant, sur un lit incliné à écouter Roland Garros à la télévision[^10] pendant que des individus en blouses blanches remplaçaient mon sang par celui de volontaires anonymes.
+Concrètement, on me laissa allongé entre trois et quatre heures par jour, cinq jours durant, sur un lit incliné à écouter Roland Garros à la télévision[^3] pendant que des individus en blouses blanches remplaçaient mon sang par celui de volontaires anonymes.
 
 ![Service de dialyse](/vision/matrix.jpg)
 *Service de dialyse du CHUV (Vue d'artiste)*
 
-Puisque vous abordez le sujet, je vous soumets un mystère que mes heures de réflexion en état semi-végétatif n'ont pas réussi à percer. Comment peut-on affirmer qu'un donneur est à la fois volontaire et anonyme, puisque l'anonymat empêche justement de retrouver aujourd'hui ceux dont on voudrait vérifier qu'ils étaient volontaires hier ? Cherche-t-on à apaiser les doutes que produit chez certains hospitalisés paranoïaques comme moi une culture littéraire et télévisuelle ultra-violente où les hommes de mon âge et de ma corpulence se font régulièrement dépecer dans des torrents d'hémoglobine[^7] ? Pourquoi, dans les films d'épouvante, les petits chauves bedonnants partent-ils toujours les premiers ?
+Puisque vous abordez le sujet, je vous soumets un mystère que mes heures de réflexion en état semi-végétatif n'ont pas réussi à percer. Comment peut-on affirmer qu'un donneur est à la fois volontaire et anonyme, puisque l'anonymat empêche justement de retrouver aujourd'hui ceux dont on voudrait vérifier qu'ils étaient volontaires hier ? Cherche-t-on à apaiser les doutes que produit chez certains hospitalisés paranoïaques comme moi une culture littéraire et télévisuelle ultra-violente où les hommes de mon âge et de ma corpulence se font régulièrement dépecer dans des torrents d'hémoglobine[^4] ? Pourquoi, dans les films d'épouvante, les petits chauves bedonnants partent-ils toujours les premiers ?
 
 Ces questions étant posées, je dois bien avouer que mes dialystes étaient particulièrement non violents. Leurs soins rétablirent mon acuité visuelle et ma perception des couleurs avec une patience méthodique dont seule l'horlogerie, l'administration fiscale et la médecine helvétiques sont aujourd'hui capables: j'allais ainsi récupérer les couleurs une teinte à la fois.
 
@@ -96,16 +93,16 @@ Ensuite revint le bleu. Ou plutôt, *les* bleus, car tous les bleus revinrent en
 
 Laissez-moi vous expliquer.
 
-Imaginez-vous en Grèce, à Santorin. À vos pieds, la mer (*bleu marine*). Au loin, le ciel (*bleu ciel*). Et tout autour de vous, une magnifique canopée de toits *bleu roi cycladique* -- qui, vous le savez certainement, est obtenu par le subtil mélange d'un bleu vif et d'un soupçon de noir[^13]. Et bien à ce stade de ma guérison, je percevais toutes ces variations sous la même teinte criarde et saturée -- et floue bien sûr, ça, ça ne changeait pas.
+Imaginez-vous en Grèce, à Santorin. À vos pieds, la mer (*bleu marine*). Au loin, le ciel (*bleu ciel*). Et tout autour de vous, une magnifique canopée de toits *bleu roi cycladique* -- qui, vous le savez certainement, est obtenu par le subtil mélange d'un bleu vif et d'un soupçon de noir[^5]. Et bien à ce stade de ma guérison, je percevais toutes ces variations sous la même teinte criarde et saturée -- et floue bien sûr, ça, ça ne changeait pas.
 
 ![Renaissance du monde](/vision/santorin.png)
 *Santorin. Gauche: vision normale. Droite, vision floue saturée (il faut aimer le bleu).*
 
 Et à part ça ?
 
-Acuité visuelle: environ 3/10. Je n'étais donc plus ni aveugle ni même malvoyant puisque seule l'acuité visuelle détermine le degré du handicap[^11].
+Acuité visuelle: environ 3/10. Je n'étais donc plus ni aveugle ni même malvoyant puisque seule l'acuité visuelle détermine le degré du handicap[^6].
 
-Indice de masse corporelle: très supérieur à ce que la décence et mon épouse me permettent de révéler publiquement mais très inférieur à ce qui aurait pu me valoir une excursion au Centre de l'obésité du CHUV[^1].
+Indice de masse corporelle: très supérieur à ce que la décence et mon épouse me permettent de révéler publiquement mais très inférieur à ce qui aurait pu me valoir une excursion au Centre de l'obésité du CHUV[^7].
 
 Après quelques jours sous observation, je pus donc finalement quitter l'hôpital, les bras levés en signe de triomphe, traversant le brouhaha joyeux d'une foule admirative venue célébrer mon retour à la vue et honorer la science médicale porteuse d'espoirs et de promesses. Ou, plus probablement, venue faire tout autre chose; c'est difficile à dire a posteriori -- je voyais flou et je n'entendais pas bien.
 
@@ -119,14 +116,10 @@ Après quelques jours sous observation, je pus donc finalement quitter l'hôpita
 ## Retour
 [Cliquez ici](..) pour retourner à l’index.
 
-[^1]: https://www.chuv.ch/fr/obesite/
-[^2]: Livre "physique" au texte noir sur papier blanc, comme un livre de poche par exemple; par opposition à un livre électronique lisible en mode sombre sur ma liseuse.
-[^4]: Cette expérience m'a permis d'établir une échelle de sophistication des examens médicaux dont je ne suis pas peu fier. Au firmament de la prouesse technologique se trouvent l'IRM et les autres techniques d'imagerie fondées sur les lois de l'électromagnétisme, chef d'oeuvre du génie humain. Au milieu de mon échelle, se trouvent la prise de sang, la ponction lombaire et les autres manipulations qui nécessitent à la fois une aiguille et des analyses biologiques. Dans les bas fonds de l'échelle, enfin, mais toujours utilisés avec une fréquence indigne de la rusticité du procédé, se trouvent les coups de marteau dans les rotules. Ce qui vous vaut de la prison ferme dans le monde civil vous couvre de gloire et d'une blouse blanche en milieu hospitalier. Allez comprendre.
-[^5]: Le suisse d'adoption que je suis reconnaît désormais la beauté de la [lutte suisse](https://fr.wikipedia.org/wiki/Lutte_suisse) et la supériorité de la [raclette suisse](https://fr.wikipedia.org/wiki/Raclette) sur toute autre forme d'ingestion de fromage fondu.
-[^6]: Maux qui, me direz-vous, affectent moins gravement l'informaticien que je suis que le biathlète que j'avais de toutes façons assez peu de chances de devenir. Certes, mais tout de même.
-[^7]: Conseil: ne regardez ni [Soleil Vert](https://fr.wikipedia.org/wiki/Soleil_vert) ni [True Blood](https://fr.wikipedia.org/wiki/True_Blood) si vous êtes un homme blanc dans la force de l'âge et que votre horoscope signale un échange plasmatique dans les semaines à venir.
-[^9]: Un an après les évènements, je ne comprends toujours pas comment le corps médical peut affirmer qu'un donneur est à la fois anonyme et volontaire. En effet, si le donneur est anonyme, comment vérifier auprès de lui aujourd'hui qu'il était bien volontaire hier ? Tout cela est bien mystérieux.
-[^10]: Demander à un patient de *regarder* du tennis à la télé, ça peut s'envisager. Lui demander d'*écouter* du tennis à la télé, en revanche, quand le patient est aveugle, devrait être interdit par la Convention de Genève. Si je ne devais retenir qu'un moment de détresse parmi ceux que j'ai traversés depuis la perte de la vision, ce serait l'écoute d'un match de tennis télévisé. Les commentateurs supposent, à raison, que les téléspectateurs voient les échanges, les tableaux des scores et les diverses statistiques incrustées à l'écran. Ils se contentent donc de bredouiller des banalités comme "joli point" ici et "balle de break" là, sans préciser qui a marqué le point ou fait le break. J'ai donc passé une petite vingtaine d'heure étalées sur cinq jours, à écouter des frappes de balle, des commentaires indigents et des applaudissements polis sans savoir qui jouait ou qui gagnait.
-[^11]: Source: https://www.unadev.com/le-handicap-visuel/les-principales-pathologies.
-[^12]: À Santorin, en Grèce. Autant rêver grand.
-[^13]: https://www.comptoirdelours.fr/article/santorin
+[^1]: Cette expérience m'a permis d'établir une échelle de sophistication des examens médicaux dont je ne suis pas peu fier. Au firmament de la prouesse technologique se trouvent l'IRM et les autres techniques d'imagerie fondées sur les lois de l'électromagnétisme, chef d'oeuvre du génie humain. Au milieu de mon échelle, se trouvent la prise de sang, la ponction lombaire et les autres manipulations qui nécessitent à la fois une aiguille et des analyses biologiques. Dans les bas fonds de l'échelle, enfin, mais toujours utilisés avec une fréquence indigne de la rusticité du procédé, se trouvent les coups de marteau dans les rotules. Ce qui vous vaut de la prison ferme dans le monde civil vous couvre de gloire et d'une blouse blanche en milieu hospitalier. Allez comprendre.
+[^2]: Maux qui, me direz-vous, affectent moins gravement l'informaticien que je suis que le biathlète que j'avais de toutes façons assez peu de chances de devenir. Certes, mais tout de même.
+[^3]: Demander à un patient de *regarder* du tennis à la télé, ça peut s'envisager. Lui demander d'*écouter* du tennis à la télé, en revanche, quand le patient est aveugle, devrait être interdit par la Convention de Genève. Si je ne devais retenir qu'un moment de détresse parmi ceux que j'ai traversés depuis la perte de la vision, ce serait l'écoute d'un match de tennis télévisé. Les commentateurs supposent, à raison, que les téléspectateurs voient les échanges, les tableaux des scores et les diverses statistiques incrustées à l'écran. Ils se contentent donc de bredouiller des banalités comme "joli point" ici et "balle de break" là, sans préciser qui a marqué le point ou fait le break. J'ai donc passé une petite vingtaine d'heure étalées sur cinq jours, à écouter des frappes de balle, des commentaires indigents et des applaudissements polis sans savoir qui jouait ou qui gagnait.
+[^4]: Conseil: ne regardez ni [Soleil Vert](https://fr.wikipedia.org/wiki/Soleil_vert) ni [True Blood](https://fr.wikipedia.org/wiki/True_Blood) si vous êtes un homme blanc dans la force de l'âge et que votre horoscope signale un échange plasmatique dans les semaines à venir.
+[^5]: Source: https://www.comptoirdelours.fr/article/santorin
+[^6]: Source: https://www.unadev.com/le-handicap-visuel/les-principales-pathologies
+[^7]: Voir https://www.chuv.ch/fr/obesite/
