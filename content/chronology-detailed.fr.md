@@ -68,7 +68,9 @@ La chronologie ci-dessous détaille ces 12 mois.
 
 - Février à mai 2024:
     - Je n'arrive plus à lire de livre imprimé. Certes, mon hypersensibilité à la lumière est en recul, mais pas suffisamment pour que je puisse lire des textes en noir sur blanc de manière prolongée. En discutant avec un médecin, je suppose que j'ai pu lire 1200 pages en décembre malgré la fatigue occulaire grâce à l'excitation du moment. Malheureusement, l'excitation passée, il ne reste plus que la fatigue occulaire et l'incapacité à lire normalement.
-    - Ceci dit, je peux lire sans peine en mode sombre[^6] sur ma liseuse. J'ai également configuré chaque détail de mon ordinateur pour qu'il soit en mode sombre également. Je considère donc avoir recouvré 95% de mes capacites visuelles en particulier et de ma capacité à parcourir du contenu en général[^7].
+    - Ceci dit, je peux lire sans peine en mode sombre[^6] sur ma liseuse. J'ai également configuré chaque détail de mon ordinateur pour qu'il soit en mode sombre également. 
+    - Enfin, maintenant que mon hypersensibilité est relativement stable, j'ai fait faire des lunettes à ma vue avec des verres teintés pour réduire l'éblouissement. Ces lunettes ne masquent pas mes yeux comme des lunettes de soleil peuvent le faire, ce qui est plus agréable pour mon entourage, et elles me permettent de lire des livres imprimés de manière confortable.
+    - Je considère donc avoir recouvré 95% de mes capacites visuelles en particulier et de ma capacité à parcourir du contenu en général[^7].
 
 - Mai 2024 à aujourd'hui
     - Le dernier combat est celui contre la fatigue neurologique. Il n'a pas vraiment sa place sur ce site consacré à l'hypersensibilité à la lumière; je clos donc ici la chronologie.
