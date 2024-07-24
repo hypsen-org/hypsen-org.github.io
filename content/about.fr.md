@@ -18,6 +18,8 @@ Aujourd'hui[^2], seules ma **sensibilité à la lumière** et ma **sensibilité 
 ## Chronologie
 Une chronologie détaillée des évènements est disponible [ici](../chronologie-détaillée).
 
+Une chronologie romancée est disponible [là](../chronologie-romancée).
+
 ## Retour
 [Cliquez ici](..) pour retourner à l’index.
 
