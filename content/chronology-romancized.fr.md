@@ -82,7 +82,7 @@ Concrètement, on me laissa allongé entre trois et quatre heures par jour, cinq
 
 Puisque vous abordez le sujet, je vous soumets un mystère que mes heures de réflexion en état semi-végétatif n'ont pas réussi à percer. Comment peut-on affirmer qu'un donneur est à la fois volontaire et anonyme, puisque l'anonymat empêche justement de retrouver aujourd'hui ceux dont on voudrait vérifier qu'ils étaient volontaires hier ? Cherche-t-on à apaiser les doutes que produit chez certains hospitalisés paranoïaques comme moi une culture littéraire et télévisuelle ultra-violente où les hommes de mon âge et de ma corpulence se font régulièrement dépecer dans des torrents d'hémoglobine[^4] ? Pourquoi, dans les films d'épouvante, les petits chauves bedonnants partent-ils toujours les premiers ?
 
-Ces questions étant posées, je dois bien avouer que mes dialystes étaient particulièrement non violents. Leurs soins rétablirent mon acuité visuelle et ma perception des couleurs avec une patience méthodique dont seule l'horlogerie, l'administration fiscale et la médecine helvétiques sont aujourd'hui capables: j'allais ainsi récupérer les couleurs une teinte à la fois.
+Ces questions étant posées, je dois bien avouer que mes dialystes étaient particulièrement non violents. Leurs soins rétablirent mon acuité visuelle et ma perception des couleurs avec une patience méthodique dont seule l'horlogerie et l'administration fiscale suisses sont aujourd'hui capables: j'allais ainsi récupérer les couleurs une teinte à la fois.
 
 En premier il y eut le jaune, c'est-à-dire la couleur la plus totalement inutile en milieu hospitalier. Dans ma chambre, seul le rideau me séparant de mon co-détenu était vaguement jaune-orangé. Le reste de mon environnement restant d'un gris passablement ennuyeux.
 
@@ -104,7 +104,7 @@ Acuité visuelle: environ 3/10. Je n'étais donc plus ni aveugle ni même malvoy
 
 Indice de masse corporelle: très supérieur à ce que la décence et mon épouse me permettent de révéler publiquement mais très inférieur à ce qui aurait pu me valoir une excursion au Centre de l'obésité du CHUV[^7].
 
-Après quelques jours sous observation, je pus donc finalement quitter l'hôpital, les bras levés en signe de triomphe, traversant le brouhaha joyeux d'une foule admirative venue célébrer mon retour à la vue et honorer la science médicale porteuse d'espoirs et de promesses. Ou, plus probablement, venue faire tout autre chose; c'est difficile à dire a posteriori -- je voyais flou et je n'entendais pas bien.
+Après quelques jours sous observation, je pus donc finalement quitter l'hôpital, les bras levés en signe de triomphe, traversant le brouhaha joyeux d'une foule admirative venue célébrer mon retour à la vue et honorer la science médicale porteuse d'espoirs et de promesses. Ou, plus probablement, venue faire tout autre chose; c'est difficile à dire a posteriori -- je voyais flou et je n'entendais pas très bien.
 
 ## J+21: Sortie de l'hôpital
 
