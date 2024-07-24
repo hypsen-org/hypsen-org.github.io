@@ -83,6 +83,6 @@ J'espère que cette chronologie, comme le reste du site, sera utile à d'autres.
 [^2]: L'[hôpital ophtalmique Jules-Gonin](https://www.ophtalmique.ch/).
 [^3]: Je suis légèrement hypermétrope et astygmate.
 [^4]: C.f. la section [adaptations informatiques](../adaptation/#informatique).
-[^5]: Par exemple: https://github.com/Kimonode/xfce4_workspace_indicator
+[^5]: Par exemple: https://github.com/Kimonode/xfce4_workspace_indicator.
 [^6]: Texte blanc sur fond noir.
 [^7]: J'ai pris l'habitude d'écouter des podcasts et des livres audio, pour reposer mes yeux. 
