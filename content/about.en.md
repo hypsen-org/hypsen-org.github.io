@@ -16,6 +16,11 @@ I became [hyper-sensitive to light](../visual-impairments/#light-and-glare-sensi
 
 Today[^2], only my **sensitivity to light** and my **sensitivity to weak contrasts** are still (extremely) deficient. Concretely, I am much more easily dazzled than before by light or saturated colors (natural sunlight, neon lights in stores, for example). Examples of how I see common situations are available [here](../visual-impairments/#light-and-glare-sensitivity).
 
+## Timeline
+A detailed timeline of the events is available [here](../detailed-timeline).
+
+A romanced timeline can be found [there](../romanced-timeline).
+
 ## Back
 [Click here](..) to go back to the home page.
 
