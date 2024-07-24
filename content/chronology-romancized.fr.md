@@ -63,7 +63,7 @@ Je fus alors admis au service de neurologie où l'on m'injecta des doses équine
 *Service de neurologie du CHUV (Vue d'artiste)*
 
 ## J+4 ou 5 ou 6; en tous cas, c'était long.
-La première bonne nouvelle fut que les anti-inflammatoires stabilisèrent ma cécité. Je pus même suivre la lumière quand on me le demandait et détecter qu'il y avait une affiche collée sur l'armoire à coté de mon lit, ce qu'aucun soignant ne m'a jamais demandé, mais je vous le dis quand même.
+La première bonne nouvelle fut que les anti-inflammatoires stabilisèrent ma cécité. Je pus même suivre la lumière quand on me le demandait et détecter qu'il y avait une affiche collée sur l'armoire à coté de mon lit, ce que personne ne me demandait, mais je vous le dis quand même.
 
 Acuité visuelle: environ 1/10 et vision en niveaux de gris. Ça a l'air bof dit comme ça, mais c'était bien mieux que la vision sur un seul niveau de blanc que je connaissais jusque là.
 
