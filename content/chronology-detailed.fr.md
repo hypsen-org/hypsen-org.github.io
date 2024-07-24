@@ -75,6 +75,8 @@ La chronologie ci-dessous détaille ces 12 mois.
 - Mai 2024 à aujourd'hui
     - Le dernier combat est celui contre la fatigue neurologique. Il n'a pas vraiment sa place sur ce site consacré à l'hypersensibilité à la lumière; je clos donc ici la chronologie.
 
+J'espère que cette chronologie, comme le reste du site, sera utile à d'autres.
+
 
 [^0]: Le [CHUV](https://fr.wikipedia.org/wiki/Centre_hospitalier_universitaire_vaudois) de Lausanne.
 [^1]: Les cas les plus graves d'ADEM affichent jusqu'à [30% de mortalité](https://www.ncbi.nlm.nih.gov/books/NBK430934/#_article-20607_s11_).
