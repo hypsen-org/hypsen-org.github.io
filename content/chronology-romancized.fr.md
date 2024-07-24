@@ -1,5 +1,5 @@
 ---
-title: "Chronologie"
+title: "Chronologie romancée"
 slug: "chronologie"
 date: 2023-09-23
 draft: false
