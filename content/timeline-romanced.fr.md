@@ -9,7 +9,7 @@ tags:
   - basse vision
 ---
 
-*Dernière mise à jour: avril 2024*
+*Dernière mise à jour: juillet 2024*
 
 Cette page décrit de manière romancée les évènements qui se sont déroulés depuis la perte totale de vision qui m'a affecté en mai 2023, jusqu'aux progrès les plus récents.
 
