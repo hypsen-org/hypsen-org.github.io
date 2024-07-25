@@ -54,7 +54,7 @@ Or, par bonheur, l'urgentiste ne reste jamais ni perplexe ni inquiétant très l
 
 Au firmament de la prouesse technologique se trouvent l'IRM et les autres techniques d'imagerie fondées sur les lois de l'électromagnétisme, chef d'oeuvre du génie humain que l'on enseignera toujours dans plusieurs siècles.
 
-Au milieu de l'échelle, se trouvent la prise de sang, la ponction lombaire et les autres manipulations qui nécessitent à la fois une aiguille et des analyses biologiques. Certes, avec un peu de chance, les progrès scientifiques rendront bientôt obsolètes ces manipulations contraires à la bonne santé de l'épiderme. Mais en attendant, je respecte ceux qui pratiquent ces scarifications rituelles dans un but médical.
+Au milieu de l'échelle, se trouvent la prise de sang, la ponction lombaire et les autres manipulations qui nécessitent à la fois une aiguille et des analyses biologiques. Certes, avec un peu de chance, les progrès scientifiques rendront bientôt obsolètes les scarifications contraires à la bonne santé de l'épiderme. Mais en attendant, je respecte ceux qui pratiquent ces rituels dans un but médical.
 
 En bas de l'échelle, enfin, mais toujours utilisés avec une fréquence indigne de la rusticité du procédé, se trouvent les coups de marteau dans les rotules. Ce qui vous vaut de la prison ferme dans le monde civil vous couvre de gloire, d'une blouse blanche et du titre de neurologue en milieu hospitalier. Allez comprendre.
 
