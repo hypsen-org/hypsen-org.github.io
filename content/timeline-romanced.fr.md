@@ -74,7 +74,7 @@ La première bonne nouvelle fut que les anti-inflammatoires stabilisèrent ma c�
 Acuité visuelle: environ 1/10 et vision en niveaux de gris. Ça a l'air bof dit comme ça, mais c'était bien mieux que la vision sur un seul niveau de blanc que je connaissais jusque là.
 
 ![Renaissance du monde](/vision/sixtine-gray.png)
-*À gauche: Avant les corticoïdes. À droite: Après.*
+*Gauche: Avant les corticoïdes. Droite: Après.*
 
 ## J+10 à J+15: Plasma is people
 J'avoue ne plus du tout me souvenir des échelles de temps. Toujours est-il qu'une fois arrivés les résultats des derniers examens, et comme les effets de la cortisone stagnaient à un niveau trop faible pour en faire le seul traitement en raison des effets secondaires, on m'envoya au service de dialyse pour un échange ~~linguistique~~ [plasmatique](https://fr.wikipedia.org/wiki/Plasmaph%C3%A9r%C3%A8se).
