@@ -10,10 +10,10 @@ tags:
 ---
 Ce site traite de l'hyper-sensibilité à la lumière sous les angles suivants:
 
-* Illustration de l'hyper-sensibilité et d'autres déficiences visuelles: [ici](../deficiences-visuelles)
-* Cause et parcours depuis l'apparition de mon hyper-sensibilité: [ici](../a-propos)
-* Les adaptations que j'ai mises en place: [là](../adaptation)
-
+* [Illustrations](../deficiences-visuelles#sensibilité-à-la-lumière-et-à-léblouissement) de l'hyper-sensibilité parmi les déficiences visuelles
+* [Chronologie](../a-propos), de l'apparition de mon hyper-sensibilité à aujourd'hui
+* [Adaptations](../adaptation) mises en place depuis la perte de vision
+   
 J'espère que vous trouverez ce site utile.
 
 ML
