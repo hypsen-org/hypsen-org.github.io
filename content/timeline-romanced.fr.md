@@ -61,7 +61,7 @@ En bas de l'échelle, enfin, mais toujours utilisés avec une fréquence indigne
 Après cette première nuit intense, je me souviens seulement qu'au matin mon acuité visuelle était inférieure à 1/10. Autrement dit, j'étais légalement aveugle.
 
 ## J+1 et suivants: Ça va piquer
-Heureusement, les formations médicales produisent depuis longtemps des médecins moins idiots que leurs patients. Sur la base des premiers résultats d'examens, les équipes qui m'encadraient soupçonnèrent donc une inflammation du cerveau et du nerf optique.
+Heureusement, à l'exception de John Taylor[^1], les formations médicales produisent depuis longtemps des médecins moins dangereusement idiots que leurs patients. Sur la base des premiers résultats d'examens, les équipes qui m'encadraient soupçonnèrent donc une inflammation du cerveau et du nerf optique.
 
 Je fus alors admis au service de neurologie où l'on m'injecta des doses équines de corticoïdes en intra-veineuse; en conséquence de quoi, je me mis à dévorer mes repas avec l'appétit d'un lutteur suisse un soir de raclette; en conséquence de quoi (bis), je m'imaginai devenir aveugle et obèse dans la même semaine[^2].
 
@@ -122,6 +122,7 @@ Après quelques jours sous observation, je pus donc finalement quitter l'hôpita
 ## Retour
 [Cliquez ici](..) pour retourner à l’index.
 
+[^1]: [Le chirurgien qui rendit aveugles Bach et Haendel](https://www.rtbf.be/article/l-histoire-de-john-taylor-le-chirurgien-qui-rendit-aveugles-bach-et-haendel-11092539)
 [^2]: Devenir aveugle et obèse la même semaine, me direz-vous, affecte moins gravement l'informaticien que je suis que le biathlète que j'avais de toutes façons assez peu de chances de devenir. Certes, mais tout de même.
 [^3]: Demander à un patient de *regarder* du tennis à la télé, ça peut s'envisager. Lui demander d'*écouter* du tennis à la télé, en revanche, quand le patient est aveugle, est très probablement interdit par la Convention de Genève. Si je ne devais retenir qu'un moment de détresse parmi ceux que j'ai traversés depuis la perte de la vision, ce serait l'écoute d'un match de tennis télévisé. Les commentateurs supposent, à raison, que les téléspectateurs voient les échanges, les tableaux des scores et les diverses statistiques incrustées à l'écran. Ils se contentent donc de bredouiller des banalités comme "joli point" ici et "balle de break" là, sans préciser qui a marqué le point ou fait le break. J'ai donc passé une petite vingtaine d'heure étalées sur cinq jours, à écouter des frappes de balle, des commentaires indigents et des applaudissements polis sans savoir qui jouait ou qui gagnait.
 [^4]: Conseil: ne regardez ni [Soleil Vert](https://fr.wikipedia.org/wiki/Soleil_vert) ni [True Blood](https://fr.wikipedia.org/wiki/True_Blood) si vous êtes un homme blanc dans la force de l'âge et que votre horoscope signale un échange plasmatique dans les semaines à venir.
