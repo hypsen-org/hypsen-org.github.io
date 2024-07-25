@@ -102,7 +102,7 @@ Explication.
 Imaginez-vous en Grèce, à Santorin. À vos pieds, la mer (*bleu marine*). Au loin, le ciel (*bleu ciel*). Et tout autour de vous, une magnifique canopée de toits *bleu roi cycladique* -- qui, vous le savez certainement, est obtenu par le subtil mélange d'un bleu vif et d'un soupçon de noir[^5]. Et bien à ce stade de ma guérison, je percevais toutes ces variations sous la même teinte criarde et saturée -- et floue bien sûr, ça, ça ne changeait pas.
 
 ![Renaissance du monde](/vision/santorin.png)
-*Santorin. Gauche: vision normale. Droite, vision floue saturée (il faut aimer le bleu).*
+*Santorin. Gauche: vision normale. Droite: vision floue saturée (il faut aimer le bleu).*
 
 Et à part ça ?
 
