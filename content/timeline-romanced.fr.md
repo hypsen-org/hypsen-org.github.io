@@ -76,7 +76,7 @@ Acuité visuelle: environ 1/10 et vision en niveaux de gris. Ça a l'air bof dit
 ![Renaissance du monde](/vision/sixtine-gray.png)
 *À gauche: Avant les corticoïdes. À droite: Après.*
 
-## J+10 à J+15: "Plasma is people"
+## J+10 à J+15: Plasma is people
 J'avoue ne plus du tout me souvenir des échelles de temps. Toujours est-il qu'une fois arrivés les résultats des derniers examens, et comme les effets de la cortisone stagnaient à un niveau trop faible pour en faire le seul traitement en raison des effets secondaires, on m'envoya au service de dialyse pour un échange ~~linguistique~~ [plasmatique](https://fr.wikipedia.org/wiki/Plasmaph%C3%A9r%C3%A8se).
 
 À ce point là du récit, les médecins faisaient l'hypothèse que mon système immunitaire s'était emballé en combattant la pneumonie et attaquait le système nerveux central: cerveau, nerf optique, moelle épinière. Pour mettre fin à ce sabotage auto-immune, il fallait donc purger mes veines des anticorps fous qui y grouillaient.
@@ -88,16 +88,16 @@ Concrètement, on me laissa allongé entre trois et quatre heures par jour, cinq
 
 Puisque vous abordez le sujet, je vous soumets un mystère que mes heures de réflexion en état semi-végétatif n'ont pas réussi à percer. Comment peut-on affirmer qu'un donneur est à la fois volontaire et anonyme, puisque l'anonymat empêche justement de retrouver aujourd'hui ceux dont on voudrait vérifier qu'ils étaient volontaires hier ? Cherche-t-on à apaiser les doutes que produit chez certains hospitalisés paranoïaques comme moi une culture littéraire et télévisuelle ultra-violente où les hommes de mon âge et de ma corpulence se font régulièrement dépecer dans des torrents d'hémoglobine[^4] ? Pourquoi, dans les films d'épouvante, les petits chauves bedonnants partent-ils toujours les premiers ?
 
-Ces questions étant posées, je dois bien avouer que mes dialystes étaient particulièrement non violents. Leurs soins rétablirent mon acuité visuelle et ma perception des couleurs avec une patience méthodique dont seule l'horlogerie et l'administration fiscale suisses sont aujourd'hui capables: j'allais ainsi récupérer les couleurs une teinte à la fois.
+Ces questions étant posées, je dois bien avouer que mes dialystes étaient particulièrement non violents. Leurs soins rétablirent ainsi mon acuité visuelle et ma perception des couleurs avec une efficacité lente et précise dont je croyais encore seules capables l'horlogerie et l'administration fiscale suisses.
 
-En premier il y eut le jaune, c'est-à-dire la couleur la plus totalement inutile en milieu hospitalier. Dans ma chambre, seul le rideau me séparant de mon co-détenu était vaguement jaune-orangé. Le reste de mon environnement restant d'un gris passablement ennuyeux.
+En premier je récupérai le jaune, c'est-à-dire la couleur la plus totalement inutile en milieu hospitalier. Dans ma chambre, seul le rideau me séparant de mon co-détenu était vaguement jaune-orangé. Le reste de mon environnement restait donc d'un gris passablement ennuyeux.
 
 ![Renaissance du monde](/vision/sixtine-yellow.png)
 *Résultat des premiers échanges plasmatiques (Vue d'artiste)*
 
 Ensuite revint le bleu. Ou plutôt, *les* bleus, car tous les bleus revinrent en même temps, mais perçus avec la même teinte.
 
-Laissez-moi vous expliquer.
+Explication.
 
 Imaginez-vous en Grèce, à Santorin. À vos pieds, la mer (*bleu marine*). Au loin, le ciel (*bleu ciel*). Et tout autour de vous, une magnifique canopée de toits *bleu roi cycladique* -- qui, vous le savez certainement, est obtenu par le subtil mélange d'un bleu vif et d'un soupçon de noir[^5]. Et bien à ce stade de ma guérison, je percevais toutes ces variations sous la même teinte criarde et saturée -- et floue bien sûr, ça, ça ne changeait pas.
 
@@ -108,9 +108,9 @@ Et à part ça ?
 
 Acuité visuelle: environ 3/10. Je n'étais donc plus ni aveugle ni même malvoyant puisque seule l'acuité visuelle détermine le degré du handicap[^6].
 
-Indice de masse corporelle: très supérieur à ce que la décence et mon épouse me permettent de révéler publiquement mais très inférieur à ce qui aurait pu me valoir une excursion au Centre de l'obésité du CHUV[^7].
+Indice de masse corporelle: très supérieur à ce que la décence et mon épouse me permettent de révéler publiquement mais très inférieur à ce qui aurait pu me valoir de prolonger mon séjour hospitalier au Centre de l'obésité du CHUV[^7].
 
-Après quelques jours sous observation, je pus donc finalement quitter l'hôpital, les bras levés en signe de triomphe, traversant le brouhaha joyeux d'une foule admirative venue célébrer mon retour à la vue et honorer la science médicale porteuse d'espoirs et de promesses. Ou, plus probablement, venue faire tout autre chose; c'est difficile à dire a posteriori -- je voyais flou et je n'entendais pas très bien.
+Après quelques jours sous observation, je pus donc finalement quitter l'hôpital, les bras levés en signe de triomphe, traversant le brouhaha joyeux d'une foule admirative venue célébrer mon retour à la vue et honorer la science médicale porteuse d'espoirs et de promesses. Ou, plus probablement, venue faire tout autre chose; c'est difficile à dire a posteriori -- je voyais flou et je n'entendais pas très bien non plus.
 
 ## J+21: Sortie de l'hôpital
 
@@ -122,9 +122,8 @@ Après quelques jours sous observation, je pus donc finalement quitter l'hôpita
 ## Retour
 [Cliquez ici](..) pour retourner à l’index.
 
-[^1]: Cette expérience m'a permis d'établir une échelle de sophistication des examens médicaux dont je ne suis pas peu fier. Au firmament de la prouesse technologique se trouvent l'IRM et les autres techniques d'imagerie fondées sur les lois de l'électromagnétisme, chef d'oeuvre du génie humain. Au milieu de mon échelle, se trouvent la prise de sang, la ponction lombaire et les autres manipulations qui nécessitent à la fois une aiguille et des analyses biologiques. Tout en bas de l'échelle, enfin, mais toujours utilisés avec une fréquence indigne de la rusticité du procédé, se trouvent les coups de marteau dans les rotules. Ce qui vous vaut de la prison ferme dans le monde civil vous couvre de gloire, d'une blouse blanche et du titre de neurologue en milieu hospitalier. Allez comprendre.
-[^2]: Maux qui, me direz-vous, affectent moins gravement l'informaticien que je suis que le biathlète que j'avais de toutes façons assez peu de chances de devenir. Certes, mais tout de même.
-[^3]: Demander à un patient de *regarder* du tennis à la télé, ça peut s'envisager. Lui demander d'*écouter* du tennis à la télé, en revanche, quand le patient est aveugle, devrait être interdit par la Convention de Genève. Si je ne devais retenir qu'un moment de détresse parmi ceux que j'ai traversés depuis la perte de la vision, ce serait l'écoute d'un match de tennis télévisé. Les commentateurs supposent, à raison, que les téléspectateurs voient les échanges, les tableaux des scores et les diverses statistiques incrustées à l'écran. Ils se contentent donc de bredouiller des banalités comme "joli point" ici et "balle de break" là, sans préciser qui a marqué le point ou fait le break. J'ai donc passé une petite vingtaine d'heure étalées sur cinq jours, à écouter des frappes de balle, des commentaires indigents et des applaudissements polis sans savoir qui jouait ou qui gagnait.
+[^2]: Devenir aveugle et obèse la même semaine, me direz-vous, affecte moins gravement l'informaticien que je suis que le biathlète que j'avais de toutes façons assez peu de chances de devenir. Certes, mais tout de même.
+[^3]: Demander à un patient de *regarder* du tennis à la télé, ça peut s'envisager. Lui demander d'*écouter* du tennis à la télé, en revanche, quand le patient est aveugle, est très probablement interdit par la Convention de Genève. Si je ne devais retenir qu'un moment de détresse parmi ceux que j'ai traversés depuis la perte de la vision, ce serait l'écoute d'un match de tennis télévisé. Les commentateurs supposent, à raison, que les téléspectateurs voient les échanges, les tableaux des scores et les diverses statistiques incrustées à l'écran. Ils se contentent donc de bredouiller des banalités comme "joli point" ici et "balle de break" là, sans préciser qui a marqué le point ou fait le break. J'ai donc passé une petite vingtaine d'heure étalées sur cinq jours, à écouter des frappes de balle, des commentaires indigents et des applaudissements polis sans savoir qui jouait ou qui gagnait.
 [^4]: Conseil: ne regardez ni [Soleil Vert](https://fr.wikipedia.org/wiki/Soleil_vert) ni [True Blood](https://fr.wikipedia.org/wiki/True_Blood) si vous êtes un homme blanc dans la force de l'âge et que votre horoscope signale un échange plasmatique dans les semaines à venir.
 [^5]: Source: https://www.comptoirdelours.fr/article/santorin
 [^6]: Source: https://www.unadev.com/le-handicap-visuel/les-principales-pathologies
