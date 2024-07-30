@@ -30,6 +30,10 @@ The final decision, in favor of the Huawei, was based on contrast, resolution an
 
 ![Huawei Mateview GT 34 Screen](/vision/huawei.png)
 
+_Updated 2024.07.30:_ There are now 34" OLED screens (and even larger) at reasonable prices. While they offer unbeatable contrast and depth of black, it seems that the readability of text is still significantly lower than that of VA or IPS screens.
+
+Another downside to getting an OLED screen is that it has a risk of burn-in with constant exposure to the same static elements over time. This is problematic for office use when you have many static elements on the screen all day, so if you need an ultrawide monitor for office use, it's better to look into VA or IPS monitors.
+
 ## Keyboard
 Now working in a relatively dark environment, I made the choice to change the good old [rustic Dell keyboard](https://www.amazon.co.uk/dp/B01E7V73IE) to which I was used for a backlit keyboard . The criteria considered were:
 * US QWERTY layout with numeric keypad, out of habit,

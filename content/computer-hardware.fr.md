@@ -30,6 +30,10 @@ La décision finale, en faveur du Huawei, s'est basée sur le contraste, la rés
 
 ![Écran Huawei Mateview GT 34](/vision/huawei.png)
 
+_Note du 30.07.2024:_ Il existe désormais des écrans OLED de 34" (et même plus) à des prix raisonnables. S'ils offrent une profondeur de noir et des contrastes imbattables, il semble que la lisibilité des caractères soit encore sensiblement inférieure à celle des écrans VA ou IPS. 
+
+Un autre inconvénient majeur est que les écrans OLED souffrent de "marquage", c'est-à-dire que les éléments affichés en permanence à l'écran finissent par rester gravés. Cela est problématique pour mon utilisation mélangeant bureautique et développement, car je garde souvent les mêmes logiciels ouverts toute la journée à la même position sur l'écran: emails, environnement de développement, etc.
+
 ## Clavier
 Travaillant désormais dans un environnement relativement sombre, j'ai fait le choix de changer le bon vieux [clavier Dell rustique](https://www.amazon.fr/dp/B01E7V73IE) auquel j'étais habitué pour un clavier retro-éclairé. Les critères considérés étaient les suivants:
 * disposition QWERTY US avec pavé numérique, par habitude,
