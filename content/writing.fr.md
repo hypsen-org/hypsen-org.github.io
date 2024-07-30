@@ -37,5 +37,7 @@ Mes principaux reproches à l'encontre de la Kindle Scribe sont:
 
 N'ayant pu tester la Kobo Elipsa 2E ni l'Onyx Boox Tab Ultra C, je ne suis malheureusement pas en mesure de me prononcer sur leurs avantages et inconvénients respectifs, au delà de ce que j'ai pu lire sur internet.
 
+_Mise-à-jour (30.07.2024)_: J'ai eu accès quelques minutes à une Kobo Elipsa 2E. Si elle permet la lecture de livres électroniques en mode sombre, les carnets de notes ne s'affichent, eux, qu'en mode clair. 
+
 ## Retour
 [Cliquez ici pour retourner à l’index.](..)

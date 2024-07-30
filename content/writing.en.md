@@ -37,5 +37,7 @@ My main gripes with the Kindle Scribe are:
 
 Having been unable to test the Kobo Elipsa 2E nor the Onyx Boox Tab Ultra C, I am unfortunately unable to comment on their respective advantages and disadvantages, beyond what I have read on the internet.
 
+_Update (2024.07.30)_: I could finally test a Kobo Elipsa 2E. While ebooks can be read in dark mode, personal notes can only be displayed in light mode. 
+
 ## Back
 [Click here to go back to the low vision home page](..).
