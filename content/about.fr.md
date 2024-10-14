@@ -18,7 +18,7 @@ Aujourd'hui[^2], seules ma **sensibilité à la lumière** et ma **sensibilité 
 ## Chronologie
 Une chronologie détaillée des évènements est disponible [ici](../chronologie-détaillée).
 
-Une chronologie romancée de la survenue de la maladie et de mon hospitalisation est disponible [là](../chronologie-romancée). Je ne l'ai pas écrite pour exorciser les (rares) pensées désagréables qui ont traversé ces semaines étranges mais, au contraire, pour conserver le  souvenir des nombreux moments légers et agréables qui ont certainement contribuer à mon rétablissement.
+Une chronologie romancée de la survenue de la maladie et de mon hospitalisation est disponible [là](../chronologie-romancée). Je ne l'ai pas écrite pour exorciser les (rares) pensées noires qui ont traversé ces semaines étranges mais, au contraire, pour conserver le  souvenir des nombreux moments légers et agréables qui ont beaucoup contribué à mon rétablissement.
 
 ## Retour
 [Cliquez ici](..) pour retourner à l’index.
