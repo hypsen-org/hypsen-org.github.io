@@ -43,7 +43,7 @@ La chronologie ci-dessous détaille ces 12 mois.
 - Adaptation à la vie "basse vision", mon acuité visuelle ne remontant que très lentement.
 - Une ergothérapeute vient à domicile me conseiller pour adapter mon logement.
 - Dehors comme dedans, je porte constamment des lunettes de soleil [catégorie 4](../adaptation/lunettes-de-soleil/#catégorie-4) pour limiter l'éblouissement.
-- Accompagné, j'arrive à marcher dans la rue. Je fais les courses en demandant de l'aide aux employés des magasins.
+- Accompagné, j'arrive à marcher dans la rue. Je fais les courses en demandant de l'aide aux employés des magasins car je suis incapable de reconnaître les articles posés sur les rayons.
 - Un examen à l'hôpital ophtalmique[^2] confirme que l'éblouissement peut être causé par les lésions constatées sur le nerf optique. Schématiquement, le nerf optique envoie au cerveau un signal déformé, où la luminosité est exagérée.
 
 ## Août 2023
