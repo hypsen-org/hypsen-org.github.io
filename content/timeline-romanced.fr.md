@@ -88,7 +88,7 @@ Concrètement, on me laissa allongé entre trois et quatre heures par jour, cinq
 
 Puisque vous abordez le sujet, je vous soumets un mystère que mes heures de réflexion en état semi-végétatif n'ont pas réussi à percer. Comment peut-on affirmer qu'un donneur est à la fois volontaire et anonyme, puisque l'anonymat empêche justement de retrouver aujourd'hui ceux dont on voudrait vérifier qu'ils étaient volontaires hier ? Cherche-t-on à apaiser les doutes que produit chez certains hospitalisés paranoïaques comme moi une culture littéraire et télévisuelle ultra-violente où les hommes de mon âge et de ma corpulence se font régulièrement dépecer dans des torrents d'hémoglobine[^4] ? Pourquoi, dans les films d'épouvante, les petits chauves bedonnants partent-ils toujours les premiers ?
 
-Ces questions étant posées, je dois bien avouer que mes dialystes étaient particulièrement non violents. Leurs soins rétablirent ainsi mon acuité visuelle et ma perception des couleurs avec une efficacité lente et précise dont je croyais encore seules capables l'horlogerie et l'administration fiscale suisses.
+Ces questions étant posées, je dois bien avouer que mes dialystes étaient particulièrement non violents. Leurs soins rétablirent ainsi mon acuité visuelle et ma perception des couleurs avec une opiniâtreté lente et précise dont je croyais seules capables l'horlogerie de luxe et l'administration fiscale suisses.
 
 En premier je récupérai le jaune, c'est-à-dire la couleur la plus totalement inutile en milieu hospitalier. Dans ma chambre, seul le rideau me séparant de mon co-détenu était vaguement jaune-orangé. Le reste de mon environnement restait donc d'un gris passablement ennuyeux.
 
